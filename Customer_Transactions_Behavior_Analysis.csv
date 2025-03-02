@@ -1,0 +1,1201 @@
+Customer_ID,Age,Gender,Annual_Income,Spending_Score,Membership_Status,Last_Purchase_Amount,Total_Purchases,Preferred_Category,Days_Since_Last_Purchase,City,Subscription_Type,Customer_Satisfaction,Fraudulent_Activity,Referral_Score,Customer_Review
+CUST_0001,56,Male,128351.0,53,Gold,127.76,6,Sports,307,Miami,Yearly,1.0,0,6,Great service!
+CUST_0002,69,Female,115081.0,78,Silver,,125,Fashion,28,Houston,Yearly,2.0,0,4,
+CUST_0003,46,Female,142721.0,91,Gold,1540.15,58,Fashion,143,London,Yearly,,0,6,Excellent quality!
+CUST_0004,32,Female,130058.0,82,Silver,1988.22,70,Electronics,75,New York,Yearly,4.0,0,8,Loved the experience!
+CUST_0005,60,Female,88056.0,92,Silver,32.05,53,Electronics,144,London,Yearly,2.0,0,3,Loved the experience!
+CUST_0006,25,Male,23081.0,51,Gold,1463.05,66,Grocery,228,London,Yearly,1.0,0,4,Will not recommend.
+CUST_0007,38,Female,54196.0,47,Bronze,1147.86,58,Grocery,63,London,Monthly,1.0,0,8,Loved the experience!
+CUST_0008,56,Female,56735.0,4,Gold,873.76,82,Grocery,346,New York,None,2.0,0,9,Could be better.
+CUST_0009,36,Male,124749.0,7,Gold,263.86,87,Grocery,344,Los Angeles,Yearly,4.0,0,10,Excellent quality!
+CUST_0010,40,Female,100102.0,35,Gold,824.08,2,Sports,268,Berlin,None,1.0,0,3,Great service!
+CUST_0011,28,Male,99578.0,48,Silver,715.21,37,Sports,327,Berlin,Yearly,2.0,0,4,Excellent quality!
+CUST_0012,28,Male,45498.0,73,Gold,,148,Electronics,183,New York,Yearly,2.0,0,4,Great service!
+CUST_0013,41,Female,96865.0,72,Silver,1464.45,103,Fashion,260,Berlin,Yearly,2.0,0,7,Will not recommend.
+CUST_0014,70,Female,51656.0,45,Gold,1404.44,24,Fashion,267,Chicago,Yearly,4.0,0,3,Great service!
+CUST_0015,53,Male,87695.0,81,Bronze,1182.15,112,Home & Living,168,Berlin,Yearly,1.0,0,3,Great service!
+CUST_0016,57,Female,57900.0,81,Bronze,1877.94,65,Sports,258,Miami,Yearly,4.0,0,6,
+CUST_0017,41,Male,148392.0,97,Bronze,706.21,129,Grocery,226,New York,Yearly,3.0,0,10,Loved the experience!
+CUST_0018,20,Male,137235.0,96,Silver,495.17,117,Grocery,32,Berlin,Monthly,1.0,0,4,Great service!
+CUST_0019,39,Male,,72,Silver,1315.25,116,Home & Living,213,New York,Yearly,4.0,0,5,
+CUST_0020,70,Male,,19,Gold,405.64,105,Fashion,49,Los Angeles,Monthly,1.0,0,5,Excellent quality!
+CUST_0021,19,Male,128777.0,63,Silver,636.87,3,Grocery,209,Chicago,Monthly,3.0,0,5,Excellent quality!
+CUST_0022,41,Female,39033.0,38,Silver,456.96,46,Fashion,28,New York,None,5.0,0,9,
+CUST_0023,61,Female,143193.0,67,Bronze,147.62,55,Home & Living,38,Miami,Yearly,2.0,0,4,Will not recommend.
+CUST_0024,47,Male,30805.0,59,Silver,1656.72,75,Fashion,346,Berlin,Yearly,4.0,0,4,Excellent quality!
+CUST_0025,55,Female,55851.0,69,Silver,516.54,45,Fashion,99,Miami,Yearly,3.0,0,8,Excellent quality!
+CUST_0026,19,Female,46832.0,13,Bronze,951.32,77,Fashion,172,Berlin,None,3.0,0,7,Excellent quality!
+CUST_0027,38,Male,,47,Bronze,96.2,24,Grocery,16,New York,Yearly,1.0,0,3,Excellent quality!
+CUST_0028,50,Female,135725.0,61,Bronze,1401.69,35,Electronics,55,London,None,1.0,0,6,Loved the experience!
+CUST_0029,29,Other,33944.0,31,Bronze,667.82,24,Sports,225,Berlin,Yearly,2.0,0,7,Excellent quality!
+CUST_0030,39,Male,39873.0,80,Silver,1492.03,28,Fashion,45,London,None,1.0,0,8,Will not recommend.
+CUST_0031,61,Male,60372.0,96,Bronze,830.68,16,Fashion,66,Chicago,None,4.0,0,4,Loved the experience!
+CUST_0032,42,Female,109464.0,22,Gold,399.55,59,Fashion,196,Miami,None,4.0,0,2,Great service!
+CUST_0033,66,Female,35379.0,93,Gold,,144,Electronics,141,London,Monthly,4.0,0,3,
+CUST_0034,44,Male,137322.0,86,Silver,269.7,15,Home & Living,322,Miami,Monthly,5.0,0,9,Will not recommend.
+CUST_0035,59,Female,56751.0,43,Platinum,886.67,11,Grocery,22,Berlin,Monthly,4.0,0,5,Could be better.
+CUST_0036,45,Female,120082.0,67,Silver,641.44,79,Electronics,93,Berlin,Monthly,1.0,0,9,Loved the experience!
+CUST_0037,33,Female,109822.0,54,Silver,1824.8,115,Fashion,241,Chicago,None,1.0,0,10,
+CUST_0038,32,Female,25110.0,10,Platinum,131.25,68,Electronics,236,Berlin,Monthly,4.0,0,4,Loved the experience!
+CUST_0039,64,Female,74341.0,42,Bronze,1391.09,43,Electronics,53,Chicago,Monthly,3.0,0,8,Excellent quality!
+CUST_0040,68,Male,32087.0,64,Platinum,373.67,69,Electronics,137,London,Monthly,3.0,0,10,Excellent quality!
+CUST_0041,61,Male,43762.0,21,Bronze,644.9,141,Home & Living,332,Berlin,Monthly,3.0,0,10,Loved the experience!
+CUST_0042,72,Female,135812.0,80,Silver,836.87,138,Sports,271,New York,Monthly,2.0,1,2,Loved the experience!
+CUST_0043,69,Female,102617.0,76,Bronze,1816.95,75,Grocery,40,Houston,None,5.0,0,1,Excellent quality!
+CUST_0044,74,Male,120483.0,66,Gold,492.73,103,Home & Living,97,Los Angeles,Yearly,4.0,0,5,
+CUST_0045,20,Female,29596.0,41,Silver,191.7,41,Home & Living,182,Houston,Monthly,2.0,0,6,Excellent quality!
+CUST_0046,54,Female,123555.0,24,Gold,644.19,59,Sports,127,Houston,Yearly,3.0,0,4,Will not recommend.
+CUST_0047,68,Male,127539.0,35,Bronze,218.31,39,Home & Living,228,Miami,Yearly,4.0,0,0,Excellent quality!
+CUST_0048,24,Female,38313.0,56,Bronze,265.91,3,Electronics,316,Chicago,Monthly,,0,2,Loved the experience!
+CUST_0049,38,Female,133175.0,30,Bronze,1151.96,7,Electronics,85,Miami,Yearly,1.0,0,2,Could be better.
+CUST_0050,26,Female,86549.0,57,Bronze,131.19,49,Fashion,255,London,None,3.0,0,3,Excellent quality!
+CUST_0051,56,Female,134914.0,94,Platinum,71.55,26,Home & Living,208,Los Angeles,None,2.0,0,9,Great service!
+CUST_0052,35,Male,43705.0,47,Bronze,1431.68,101,Fashion,214,London,None,1.0,0,5,Excellent quality!
+CUST_0053,21,Female,87364.0,35,Gold,729.68,79,Grocery,99,New York,Monthly,3.0,0,4,Could be better.
+CUST_0054,42,Male,93445.0,19,Gold,259.5,2,Electronics,48,Los Angeles,None,,0,0,Excellent quality!
+CUST_0055,31,Male,123892.0,8,Bronze,514.69,127,Grocery,200,Miami,None,3.0,0,5,Great service!
+CUST_0056,67,Female,98645.0,26,Silver,1287.75,132,Sports,257,Berlin,None,5.0,0,8,Loved the experience!
+CUST_0057,26,Male,22023.0,71,Bronze,558.32,20,Electronics,177,Berlin,Monthly,5.0,0,10,Excellent quality!
+CUST_0058,43,Male,139654.0,30,Bronze,994.1,117,Grocery,244,Miami,None,5.0,0,0,Great service!
+CUST_0059,70,Female,79796.0,7,Bronze,252.17,32,Sports,122,London,None,4.0,0,7,Great service!
+CUST_0060,19,Male,,67,Silver,1180.31,28,Grocery,341,Miami,None,4.0,0,7,
+CUST_0061,37,Male,112197.0,65,Silver,638.99,77,Sports,170,Miami,Monthly,5.0,0,2,Will not recommend.
+CUST_0062,45,Female,84429.0,36,Silver,1257.67,1,Sports,332,Houston,None,1.0,0,8,
+CUST_0063,64,Female,124195.0,25,Silver,1618.71,56,Electronics,135,New York,None,5.0,1,10,Great service!
+CUST_0064,24,Male,81627.0,37,Bronze,1227.18,35,Fashion,58,Berlin,Yearly,2.0,0,10,Loved the experience!
+CUST_0065,61,Female,53848.0,1,Silver,598.54,112,Sports,192,Houston,Yearly,,0,7,Excellent quality!
+CUST_0066,25,Female,57804.0,15,Gold,518.93,30,Sports,267,Miami,None,4.0,0,2,Excellent quality!
+CUST_0067,64,Female,35379.0,37,Bronze,661.57,54,Electronics,259,Chicago,Yearly,4.0,0,9,Could be better.
+CUST_0068,52,Female,79664.0,13,Bronze,337.59,36,Fashion,94,Houston,Yearly,,0,4,Could be better.
+CUST_0069,31,Other,47766.0,8,Gold,370.53,80,Home & Living,124,Miami,Yearly,2.0,0,2,Excellent quality!
+CUST_0070,34,Female,129126.0,5,Bronze,1583.48,58,Home & Living,40,Berlin,None,3.0,0,4,Will not recommend.
+CUST_0071,53,Female,88099.0,60,Silver,775.62,83,Fashion,253,Miami,Monthly,1.0,0,8,Loved the experience!
+CUST_0072,67,Female,56060.0,73,Bronze,877.63,65,Grocery,6,New York,Yearly,1.0,0,3,Great service!
+CUST_0073,57,Male,114733.0,1,Bronze,1192.16,69,Electronics,215,London,Yearly,1.0,0,5,Could be better.
+CUST_0074,21,Male,89122.0,36,Bronze,1183.41,128,Fashion,68,Los Angeles,None,4.0,0,2,Will not recommend.
+CUST_0075,19,Female,36087.0,35,Bronze,144.08,51,Home & Living,68,Houston,Yearly,1.0,0,2,Loved the experience!
+CUST_0076,23,Female,68868.0,66,Silver,1664.77,22,Sports,80,Houston,None,3.0,0,4,Loved the experience!
+CUST_0077,71,Female,139119.0,63,Silver,362.88,107,Home & Living,29,Houston,None,3.0,0,7,Great service!
+CUST_0078,59,Male,43225.0,23,Gold,1448.91,109,Sports,72,Miami,Monthly,1.0,0,7,Great service!
+CUST_0079,21,Female,115286.0,9,Gold,1547.62,116,Electronics,261,New York,Yearly,2.0,0,2,Excellent quality!
+CUST_0080,71,Male,26643.0,34,Silver,1432.65,101,Sports,88,Miami,Monthly,3.0,0,7,Loved the experience!
+CUST_0081,46,Male,113059.0,46,Gold,1162.17,100,Fashion,207,Miami,Yearly,2.0,0,10,Excellent quality!
+CUST_0082,35,Female,56727.0,78,Bronze,39.07,68,Sports,212,London,Yearly,4.0,0,7,Excellent quality!
+CUST_0083,43,Female,31005.0,4,Silver,727.15,36,Grocery,321,Chicago,None,3.0,0,2,Great service!
+CUST_0084,61,Female,129079.0,30,Gold,1213.63,146,Fashion,265,New York,None,2.0,0,9,Could be better.
+CUST_0085,51,Female,85697.0,95,Bronze,781.03,22,Electronics,292,Houston,Monthly,1.0,0,9,Great service!
+CUST_0086,27,Male,36029.0,75,Silver,1728.32,66,Fashion,206,Los Angeles,Monthly,4.0,0,1,Excellent quality!
+CUST_0087,53,Female,135281.0,99,Bronze,624.52,21,Grocery,332,Houston,Yearly,5.0,0,9,
+CUST_0088,31,Male,34226.0,72,Silver,594.13,100,Electronics,76,Miami,Yearly,5.0,0,1,Could be better.
+CUST_0089,48,Female,83646.0,3,Gold,539.34,128,Home & Living,287,New York,Monthly,1.0,0,8,Excellent quality!
+CUST_0090,65,Female,80603.0,14,Gold,672.23,44,Grocery,46,Berlin,None,4.0,0,6,Will not recommend.
+CUST_0091,32,Female,48731.0,60,Gold,,103,Electronics,109,New York,None,4.0,0,5,Loved the experience!
+CUST_0092,25,Female,129458.0,77,Gold,1416.96,47,Sports,199,New York,Yearly,4.0,0,6,Excellent quality!
+CUST_0093,31,Female,130384.0,45,Silver,1328.51,39,Fashion,209,Chicago,None,4.0,0,7,Great service!
+CUST_0094,40,Female,88926.0,96,Silver,1617.36,29,Electronics,153,Houston,Yearly,5.0,0,0,Will not recommend.
+CUST_0095,74,Male,25997.0,34,Bronze,1772.97,54,Fashion,9,Chicago,None,2.0,0,7,Loved the experience!
+CUST_0096,57,Male,75506.0,45,Silver,1634.0,90,Sports,352,Berlin,Yearly,4.0,0,2,Excellent quality!
+CUST_0097,38,Male,,61,Silver,47.7,85,Electronics,156,Berlin,Monthly,2.0,0,2,Loved the experience!
+CUST_0098,33,Male,69815.0,83,Platinum,1474.48,17,Home & Living,260,London,None,4.0,0,5,
+CUST_0099,62,Female,62092.0,16,Silver,424.72,80,Grocery,76,Los Angeles,Yearly,3.0,0,3,Great service!
+CUST_0100,35,Female,82539.0,66,Silver,274.53,73,Electronics,256,London,None,3.0,0,3,Loved the experience!
+CUST_0101,64,Male,86077.0,40,Silver,,49,Sports,130,Miami,Yearly,3.0,0,3,Excellent quality!
+CUST_0102,70,Male,41817.0,17,Silver,646.29,101,Electronics,66,Chicago,Monthly,4.0,0,9,Will not recommend.
+CUST_0103,41,Male,57861.0,34,Gold,123.66,2,Fashion,227,Chicago,Monthly,2.0,0,8,Excellent quality!
+CUST_0104,43,Female,33428.0,16,Bronze,283.88,142,Electronics,162,London,Yearly,5.0,0,7,Great service!
+CUST_0105,42,Female,63934.0,60,Silver,11.85,59,Home & Living,14,Miami,Yearly,1.0,0,2,Great service!
+CUST_0106,62,Male,135555.0,66,Gold,1807.42,97,Electronics,231,New York,Yearly,5.0,0,0,Great service!
+CUST_0107,58,Female,134367.0,66,Silver,58.99,99,Grocery,194,Miami,Yearly,4.0,1,0,
+CUST_0108,46,Female,30258.0,90,Bronze,426.82,103,Electronics,348,Houston,Yearly,3.0,0,0,Could be better.
+CUST_0109,32,Male,77775.0,13,Silver,838.36,2,Fashion,29,London,None,3.0,0,3,Excellent quality!
+CUST_0110,62,Female,101580.0,56,Gold,719.58,41,Electronics,358,Miami,Yearly,2.0,0,5,Loved the experience!
+CUST_0111,18,Female,114947.0,31,Bronze,1824.33,123,Home & Living,337,New York,None,4.0,0,3,Could be better.
+CUST_0112,42,Male,25469.0,34,Gold,90.18,82,Sports,330,Miami,Yearly,5.0,0,10,Loved the experience!
+CUST_0113,24,Male,48854.0,39,Gold,1029.31,144,Electronics,315,Chicago,Yearly,4.0,0,10,
+CUST_0114,26,Male,26256.0,67,Silver,1364.15,132,Electronics,295,Los Angeles,Monthly,4.0,0,2,Excellent quality!
+CUST_0115,41,Male,144086.0,8,Platinum,1864.08,140,Grocery,329,Chicago,Yearly,3.0,0,7,Excellent quality!
+CUST_0116,18,Female,96256.0,87,Gold,1244.54,29,Home & Living,219,Berlin,Monthly,5.0,0,7,Great service!
+CUST_0117,61,Female,53937.0,78,Gold,1609.47,135,Sports,146,Los Angeles,Yearly,1.0,0,5,Could be better.
+CUST_0118,25,Male,119134.0,55,Gold,176.61,14,Fashion,258,Berlin,Monthly,3.0,0,8,Loved the experience!
+CUST_0119,41,Male,21651.0,27,Bronze,778.02,12,Electronics,291,Miami,Yearly,5.0,0,9,
+CUST_0120,28,Male,70288.0,93,Bronze,754.15,99,Sports,298,Houston,None,2.0,0,0,Will not recommend.
+CUST_0121,68,Male,104730.0,53,Silver,1773.71,133,Fashion,142,Miami,Yearly,3.0,0,7,Will not recommend.
+CUST_0122,34,Female,45051.0,39,Bronze,311.23,81,Home & Living,234,New York,Monthly,2.0,0,5,Loved the experience!
+CUST_0123,25,Male,47386.0,65,Silver,,106,Home & Living,114,Miami,Monthly,3.0,0,0,Will not recommend.
+CUST_0124,52,Male,95054.0,17,Gold,663.83,32,Sports,364,Los Angeles,None,4.0,0,3,Great service!
+CUST_0125,52,Male,131562.0,30,Gold,118.39,74,Fashion,89,Chicago,Monthly,5.0,0,4,Excellent quality!
+CUST_0126,50,Female,36184.0,53,Silver,373.09,81,Home & Living,207,Houston,Yearly,2.0,0,6,Could be better.
+CUST_0127,22,Male,,13,Gold,1930.77,69,Sports,163,Berlin,Yearly,3.0,0,7,Excellent quality!
+CUST_0128,59,Female,41621.0,21,Gold,862.09,45,Home & Living,83,Miami,Yearly,2.0,0,8,Excellent quality!
+CUST_0129,56,Male,95564.0,19,Silver,1267.72,106,Home & Living,76,Miami,Yearly,3.0,1,5,Will not recommend.
+CUST_0130,58,Female,97984.0,53,Bronze,1454.96,137,Home & Living,160,Chicago,None,3.0,0,9,Could be better.
+CUST_0131,45,Female,79792.0,19,Silver,740.25,100,Grocery,4,Houston,Monthly,1.0,0,8,Great service!
+CUST_0132,24,Male,65253.0,57,Gold,302.98,146,Fashion,77,London,Monthly,1.0,0,3,
+CUST_0133,26,Male,54051.0,25,Silver,421.1,9,Sports,90,Berlin,Monthly,1.0,0,7,Loved the experience!
+CUST_0134,25,Female,69811.0,86,Silver,633.4,62,Sports,86,Miami,Monthly,2.0,0,2,Loved the experience!
+CUST_0135,29,Female,50447.0,31,Bronze,1275.78,29,Fashion,269,Miami,Monthly,4.0,0,3,Loved the experience!
+CUST_0136,51,Male,148046.0,81,Gold,802.58,125,Fashion,103,London,Yearly,3.0,0,9,Loved the experience!
+CUST_0137,50,Female,103930.0,55,Gold,23.56,114,Fashion,338,Berlin,Yearly,5.0,0,3,Will not recommend.
+CUST_0138,65,Female,143278.0,23,Gold,1051.58,143,Fashion,174,Los Angeles,Yearly,1.0,0,5,Loved the experience!
+CUST_0139,72,Female,120037.0,32,Platinum,1843.81,134,Electronics,53,Los Angeles,Yearly,2.0,0,8,Excellent quality!
+CUST_0140,40,Male,50254.0,62,Gold,1626.03,120,Sports,210,New York,None,2.0,0,5,Excellent quality!
+CUST_0141,41,Female,104045.0,74,Platinum,1652.17,79,Electronics,94,Chicago,Yearly,2.0,0,0,Loved the experience!
+CUST_0142,54,Male,136859.0,10,Platinum,1592.17,93,Home & Living,222,Houston,Monthly,5.0,0,4,Loved the experience!
+CUST_0143,52,Female,77418.0,100,Gold,654.22,4,Home & Living,8,Miami,Yearly,5.0,0,8,Excellent quality!
+CUST_0144,61,Male,134534.0,72,Silver,1532.74,82,Sports,52,Berlin,Monthly,1.0,0,4,Great service!
+CUST_0145,57,Male,34472.0,54,Bronze,294.89,75,Home & Living,76,Miami,Monthly,5.0,0,5,Excellent quality!
+CUST_0146,39,Male,131193.0,52,Silver,1318.86,14,Fashion,205,New York,Yearly,,0,2,Will not recommend.
+CUST_0147,44,Female,23471.0,20,Silver,1286.72,131,Electronics,315,Berlin,None,5.0,1,7,Excellent quality!
+CUST_0148,52,Male,127332.0,32,Bronze,60.88,114,Fashion,301,Berlin,None,5.0,0,9,Could be better.
+CUST_0149,18,Male,140312.0,14,Bronze,1578.06,62,Home & Living,309,Miami,Monthly,5.0,0,10,Could be better.
+CUST_0150,52,Male,143379.0,50,Platinum,1807.46,106,Electronics,329,Chicago,None,1.0,0,3,Excellent quality!
+CUST_0151,54,Female,115804.0,28,Gold,542.16,64,Fashion,111,New York,None,3.0,0,3,Great service!
+CUST_0152,64,Other,28329.0,53,Gold,1626.66,102,Sports,350,Chicago,Yearly,1.0,0,10,Loved the experience!
+CUST_0153,31,Male,54865.0,24,Silver,173.99,106,Fashion,164,New York,None,3.0,0,4,Could be better.
+CUST_0154,20,Female,66850.0,79,Bronze,1203.94,20,Home & Living,278,Miami,Yearly,2.0,0,9,Excellent quality!
+CUST_0155,18,Female,74220.0,22,Bronze,976.44,58,Electronics,26,New York,Monthly,2.0,0,8,Will not recommend.
+CUST_0156,22,Female,,30,Bronze,1096.39,112,Sports,69,Los Angeles,Yearly,1.0,0,7,Excellent quality!
+CUST_0157,43,Male,113808.0,63,Bronze,1853.15,57,Electronics,217,Berlin,Yearly,3.0,0,6,Loved the experience!
+CUST_0158,72,Male,128381.0,4,Bronze,1743.92,119,Sports,364,Houston,Yearly,,0,4,Great service!
+CUST_0159,31,Male,26397.0,77,Platinum,1572.32,97,Electronics,188,Miami,Yearly,3.0,0,8,Excellent quality!
+CUST_0160,56,Male,117909.0,59,Gold,554.66,92,Home & Living,332,London,None,2.0,0,8,Great service!
+CUST_0161,44,Male,,87,Bronze,1824.52,52,Sports,305,Houston,None,1.0,0,9,Could be better.
+CUST_0162,26,Female,55525.0,8,Bronze,204.04,37,Grocery,123,Miami,None,4.0,0,9,Great service!
+CUST_0163,32,Male,73072.0,82,Silver,1708.13,8,Electronics,18,Houston,None,3.0,0,1,Loved the experience!
+CUST_0164,32,Male,110106.0,12,Bronze,663.04,44,Electronics,256,Los Angeles,None,3.0,0,3,Could be better.
+CUST_0165,43,Female,103820.0,31,Platinum,117.01,98,Fashion,295,Houston,Monthly,4.0,0,7,Could be better.
+CUST_0166,59,Male,104530.0,78,Silver,1342.02,133,Sports,21,New York,Monthly,1.0,0,0,Loved the experience!
+CUST_0167,30,Female,43284.0,34,Silver,470.25,118,Grocery,39,Houston,Yearly,3.0,0,4,Loved the experience!
+CUST_0168,68,Female,81330.0,82,Bronze,494.71,69,Home & Living,37,Miami,None,1.0,0,7,Will not recommend.
+CUST_0169,49,Male,103369.0,98,Bronze,619.03,45,Fashion,47,London,Yearly,3.0,0,1,Loved the experience!
+CUST_0170,56,Female,45122.0,75,Silver,136.73,137,Grocery,182,London,None,5.0,0,1,
+CUST_0171,66,Female,90553.0,76,Gold,362.48,32,Sports,74,Chicago,Monthly,3.0,0,7,Excellent quality!
+CUST_0172,69,Female,101906.0,49,Silver,20.23,33,Grocery,208,Berlin,Monthly,,0,9,Great service!
+CUST_0173,49,Female,114788.0,79,Bronze,896.36,126,Electronics,182,Houston,None,1.0,0,8,Great service!
+CUST_0174,21,Female,82812.0,57,Silver,177.67,67,Electronics,106,London,Monthly,3.0,1,6,
+CUST_0175,47,Female,27999.0,95,Silver,1368.48,30,Fashion,187,Houston,Yearly,2.0,0,7,Could be better.
+CUST_0176,54,Male,42436.0,93,Gold,478.89,114,Sports,263,Berlin,Monthly,2.0,0,4,Could be better.
+CUST_0177,40,Male,62963.0,26,Bronze,1887.71,29,Sports,85,London,Yearly,4.0,0,0,Excellent quality!
+CUST_0178,56,Male,22096.0,18,Bronze,1743.79,131,Grocery,323,Berlin,None,2.0,0,3,Loved the experience!
+CUST_0179,62,Female,149940.0,96,Silver,,30,Fashion,330,Houston,Yearly,5.0,0,1,Loved the experience!
+CUST_0180,32,Male,133737.0,86,Silver,1568.6,137,Sports,136,Miami,Yearly,2.0,0,2,
+CUST_0181,60,Female,45279.0,38,Silver,1608.46,130,Electronics,345,Houston,Monthly,2.0,0,2,Excellent quality!
+CUST_0182,46,Female,141092.0,81,Silver,1973.26,62,Grocery,335,Berlin,None,2.0,0,8,Great service!
+CUST_0183,53,Female,128899.0,87,Silver,1199.7,3,Home & Living,94,Miami,Yearly,,0,9,Great service!
+CUST_0184,30,Other,134245.0,88,Gold,173.11,68,Electronics,325,Miami,Yearly,4.0,0,3,Will not recommend.
+CUST_0185,49,Female,46201.0,50,Silver,1297.21,25,Fashion,244,Chicago,None,1.0,0,1,Excellent quality!
+CUST_0186,24,Female,39715.0,8,Platinum,1253.71,141,Sports,89,London,Monthly,4.0,0,2,Will not recommend.
+CUST_0187,68,Male,49309.0,41,Silver,1280.32,44,Electronics,58,New York,None,,0,2,Great service!
+CUST_0188,39,Female,35078.0,6,Platinum,621.22,55,Home & Living,27,Miami,Yearly,3.0,0,6,
+CUST_0189,45,Male,76614.0,69,Gold,1720.76,137,Home & Living,71,Berlin,Yearly,3.0,0,7,Great service!
+CUST_0190,19,Male,25105.0,44,Bronze,1919.35,130,Fashion,269,London,Monthly,2.0,0,10,Great service!
+CUST_0191,59,Female,137666.0,64,Gold,443.25,41,Electronics,23,Los Angeles,None,2.0,0,5,Will not recommend.
+CUST_0192,62,Female,,29,Bronze,185.42,64,Grocery,111,Houston,None,5.0,0,3,Will not recommend.
+CUST_0193,74,Male,22839.0,28,Platinum,397.12,31,Electronics,299,Berlin,Monthly,3.0,0,5,Loved the experience!
+CUST_0194,70,Female,88920.0,11,Silver,1642.9,47,Home & Living,55,Los Angeles,Yearly,1.0,0,10,
+CUST_0195,23,Female,63619.0,65,Bronze,1356.52,130,Fashion,222,Berlin,None,4.0,0,0,Excellent quality!
+CUST_0196,45,Female,,19,Silver,1275.73,96,Fashion,119,Houston,Yearly,3.0,0,9,Loved the experience!
+CUST_0197,45,Female,145736.0,9,Platinum,809.57,77,Grocery,178,Chicago,None,1.0,0,7,Loved the experience!
+CUST_0198,61,Female,33493.0,27,Bronze,1159.88,110,Fashion,287,Berlin,Yearly,1.0,0,0,Could be better.
+CUST_0199,61,Other,37069.0,34,Silver,622.67,69,Fashion,280,Miami,None,4.0,0,4,Will not recommend.
+CUST_0200,37,Female,132443.0,44,Gold,959.63,58,Fashion,188,New York,Yearly,1.0,0,1,Great service!
+CUST_0201,47,Female,27531.0,68,Gold,1588.2,106,Fashion,65,Miami,Monthly,5.0,0,5,
+CUST_0202,28,Other,57051.0,100,Silver,1962.67,44,Fashion,297,Houston,Yearly,1.0,0,8,Great service!
+CUST_0203,72,Female,27736.0,82,Bronze,1865.65,74,Home & Living,248,Berlin,None,5.0,0,4,Great service!
+CUST_0204,45,Male,27710.0,15,Bronze,1868.39,56,Electronics,75,New York,Yearly,1.0,0,3,Loved the experience!
+CUST_0205,42,Male,87155.0,51,Silver,810.43,127,Sports,136,Miami,Yearly,2.0,1,1,Loved the experience!
+CUST_0206,56,Male,33975.0,13,Silver,942.89,30,Fashion,163,New York,Yearly,1.0,0,2,Great service!
+CUST_0207,50,Male,82424.0,83,Platinum,1414.21,71,Sports,232,Houston,Yearly,5.0,0,5,Great service!
+CUST_0208,18,Female,65603.0,49,Bronze,,118,Sports,254,Chicago,None,1.0,0,7,Loved the experience!
+CUST_0209,74,Female,43252.0,70,Silver,292.57,55,Home & Living,293,Chicago,None,1.0,0,7,Excellent quality!
+CUST_0210,44,Female,100797.0,56,Bronze,615.44,67,Fashion,169,Berlin,Monthly,1.0,0,4,Will not recommend.
+CUST_0211,74,Male,21431.0,76,Bronze,287.1,141,Sports,316,Miami,None,5.0,0,4,Loved the experience!
+CUST_0212,69,Female,94603.0,51,Silver,1227.9,3,Fashion,173,Los Angeles,None,1.0,0,9,Could be better.
+CUST_0213,30,Female,57481.0,37,Silver,619.54,26,Grocery,344,Houston,None,4.0,0,2,Excellent quality!
+CUST_0214,58,Female,112573.0,17,Silver,658.95,57,Grocery,17,Miami,Yearly,4.0,0,6,Loved the experience!
+CUST_0215,20,Female,29557.0,58,Platinum,151.12,126,Grocery,69,Miami,None,5.0,0,5,Great service!
+CUST_0216,56,Female,94971.0,87,Silver,706.09,53,Sports,337,Chicago,Monthly,2.0,0,0,Loved the experience!
+CUST_0217,23,Male,123302.0,90,Platinum,1726.37,43,Grocery,115,Berlin,Yearly,4.0,0,3,Excellent quality!
+CUST_0218,25,Female,20162.0,29,Gold,473.81,49,Home & Living,79,New York,None,3.0,0,5,Great service!
+CUST_0219,44,Male,54742.0,33,Silver,1393.42,42,Home & Living,14,Houston,Monthly,4.0,0,10,Loved the experience!
+CUST_0220,26,Male,39675.0,60,Gold,,11,Sports,175,New York,Monthly,3.0,0,5,Great service!
+CUST_0221,54,Female,93997.0,91,Silver,1728.33,103,Fashion,268,London,None,5.0,0,10,Great service!
+CUST_0222,50,Male,37015.0,89,Bronze,,98,Electronics,118,London,None,2.0,0,2,Loved the experience!
+CUST_0223,68,Female,70057.0,55,Gold,1955.4,146,Fashion,298,Houston,Monthly,3.0,0,5,Will not recommend.
+CUST_0224,59,Male,52591.0,10,Bronze,1169.43,85,Fashion,187,Berlin,None,3.0,0,9,Excellent quality!
+CUST_0225,61,Female,113583.0,47,Silver,1990.99,100,Fashion,56,Los Angeles,Yearly,4.0,0,5,Could be better.
+CUST_0226,41,Male,146133.0,23,Gold,1823.91,104,Fashion,198,London,Yearly,3.0,0,8,Loved the experience!
+CUST_0227,32,Other,120318.0,85,Bronze,450.82,46,Electronics,16,Chicago,None,5.0,0,8,Loved the experience!
+CUST_0228,71,Female,29833.0,21,Bronze,121.76,44,Grocery,287,Los Angeles,Yearly,5.0,0,1,Loved the experience!
+CUST_0229,49,Male,27896.0,13,Platinum,518.72,22,Fashion,54,Miami,Monthly,5.0,0,3,Great service!
+CUST_0230,49,Female,52972.0,33,Silver,1059.85,114,Home & Living,268,London,Monthly,4.0,0,8,Excellent quality!
+CUST_0231,41,Other,69733.0,24,Bronze,351.48,125,Sports,302,Chicago,Yearly,2.0,0,3,
+CUST_0232,58,Male,140363.0,11,Silver,343.24,124,Sports,86,Miami,Yearly,4.0,0,7,Great service!
+CUST_0233,69,Male,61800.0,17,Silver,930.56,30,Home & Living,317,Los Angeles,None,,0,9,Great service!
+CUST_0234,66,Female,116044.0,68,Silver,76.2,8,Fashion,28,Houston,None,4.0,0,2,Great service!
+CUST_0235,66,Female,25347.0,47,Platinum,252.56,98,Electronics,21,Miami,Yearly,5.0,0,2,Excellent quality!
+CUST_0236,69,Female,,25,Silver,837.56,57,Grocery,320,New York,None,1.0,0,8,Excellent quality!
+CUST_0237,29,Female,115850.0,94,Bronze,135.63,111,Sports,284,Houston,Monthly,1.0,0,10,Excellent quality!
+CUST_0238,56,Male,22643.0,73,Gold,799.54,73,Grocery,47,Houston,Monthly,3.0,0,9,Excellent quality!
+CUST_0239,19,Male,60785.0,21,Gold,953.27,115,Electronics,4,Los Angeles,None,2.0,0,7,Loved the experience!
+CUST_0240,20,Female,38681.0,84,Bronze,908.02,20,Sports,249,Los Angeles,Monthly,1.0,0,0,Could be better.
+CUST_0241,66,Male,70026.0,83,Bronze,1739.66,25,Grocery,162,Chicago,Monthly,5.0,0,9,Excellent quality!
+CUST_0242,54,Male,123864.0,83,Bronze,1064.82,19,Electronics,201,Chicago,Yearly,4.0,0,1,Could be better.
+CUST_0243,66,Female,35892.0,12,Silver,941.28,5,Grocery,100,New York,Yearly,4.0,0,2,Loved the experience!
+CUST_0244,73,Female,67299.0,37,Silver,827.31,75,Fashion,70,Houston,None,3.0,0,10,Could be better.
+CUST_0245,34,Female,37073.0,42,Silver,1637.07,128,Electronics,162,Berlin,Monthly,4.0,0,1,Could be better.
+CUST_0246,66,Female,122304.0,17,Platinum,1791.16,72,Grocery,172,New York,Monthly,,0,2,Could be better.
+CUST_0247,19,Female,50682.0,48,Gold,1707.95,40,Fashion,140,New York,Yearly,4.0,0,7,Could be better.
+CUST_0248,19,Female,117798.0,28,Bronze,1350.36,26,Fashion,137,Berlin,Yearly,1.0,0,10,Excellent quality!
+CUST_0249,45,Female,146021.0,41,Bronze,283.35,27,Electronics,65,Berlin,Yearly,1.0,0,10,Could be better.
+CUST_0250,71,Male,116894.0,99,Silver,560.97,83,Home & Living,197,Berlin,Yearly,2.0,0,5,Could be better.
+CUST_0251,40,Male,144302.0,47,Bronze,101.67,128,Sports,327,Los Angeles,None,3.0,0,6,Excellent quality!
+CUST_0252,54,Female,34289.0,18,Silver,1862.34,33,Electronics,227,New York,None,,0,9,Loved the experience!
+CUST_0253,49,Female,135359.0,78,Gold,1324.99,97,Fashion,280,New York,Monthly,1.0,0,9,Will not recommend.
+CUST_0254,50,Male,27927.0,99,Bronze,1495.26,111,Fashion,171,Miami,Yearly,3.0,0,5,Great service!
+CUST_0255,18,Male,68330.0,71,Silver,630.03,16,Electronics,315,Berlin,Yearly,5.0,0,0,Could be better.
+CUST_0256,36,Male,86707.0,13,Gold,1692.85,23,Home & Living,39,Berlin,None,4.0,0,10,Could be better.
+CUST_0257,19,Male,140279.0,82,Silver,526.61,135,Sports,6,Chicago,None,3.0,0,2,
+CUST_0258,70,Female,97454.0,13,Bronze,13.27,26,Grocery,173,Chicago,Monthly,3.0,0,0,Loved the experience!
+CUST_0259,61,Male,127439.0,100,Silver,759.07,96,Electronics,150,Houston,None,3.0,0,9,Loved the experience!
+CUST_0260,43,Female,124646.0,31,Bronze,1145.82,12,Sports,210,Chicago,Yearly,4.0,0,8,Will not recommend.
+CUST_0261,49,Female,85428.0,2,Platinum,962.62,72,Sports,301,London,Monthly,4.0,0,8,Great service!
+CUST_0262,23,Female,70601.0,16,Bronze,1725.53,133,Fashion,85,Houston,Monthly,3.0,0,4,Excellent quality!
+CUST_0263,49,Female,,9,Silver,,106,Grocery,252,Berlin,Yearly,2.0,0,3,Will not recommend.
+CUST_0264,72,Male,22539.0,73,Silver,1112.11,117,Electronics,20,Miami,Yearly,1.0,0,8,Could be better.
+CUST_0265,21,Female,122263.0,38,Platinum,1030.83,26,Fashion,256,Chicago,Monthly,4.0,0,8,Excellent quality!
+CUST_0266,72,Male,131487.0,75,Bronze,569.97,133,Fashion,32,Miami,Yearly,2.0,0,2,Loved the experience!
+CUST_0267,28,Male,42669.0,54,Bronze,1646.23,22,Home & Living,259,Chicago,Monthly,4.0,0,4,Excellent quality!
+CUST_0268,73,Female,90968.0,56,Bronze,1508.17,13,Sports,233,Chicago,Yearly,3.0,0,2,Loved the experience!
+CUST_0269,34,Male,40644.0,86,Bronze,,107,Electronics,2,Miami,Yearly,2.0,0,9,Will not recommend.
+CUST_0270,55,Male,38745.0,97,Bronze,1753.62,23,Electronics,346,New York,Monthly,5.0,0,1,Excellent quality!
+CUST_0271,41,Female,140852.0,100,Silver,1448.34,97,Electronics,307,New York,Yearly,1.0,0,0,Excellent quality!
+CUST_0272,22,Male,148081.0,87,Bronze,471.36,18,Fashion,226,New York,Monthly,1.0,0,9,Great service!
+CUST_0273,69,Female,,45,Bronze,1414.07,117,Home & Living,283,London,Yearly,4.0,0,1,Great service!
+CUST_0274,51,Male,138358.0,34,Gold,622.33,30,Grocery,69,New York,Monthly,1.0,0,7,Great service!
+CUST_0275,23,Female,54521.0,9,Bronze,491.93,26,Fashion,312,Chicago,Yearly,5.0,0,10,Will not recommend.
+CUST_0276,39,Female,142788.0,88,Bronze,155.28,144,Grocery,363,Berlin,Monthly,2.0,0,7,
+CUST_0277,28,Female,117239.0,8,Bronze,1490.62,39,Home & Living,253,Los Angeles,Yearly,2.0,0,2,Could be better.
+CUST_0278,65,Female,46928.0,7,Platinum,,130,Sports,143,Miami,None,3.0,0,6,Loved the experience!
+CUST_0279,33,Male,38322.0,36,Bronze,476.65,113,Electronics,23,Berlin,Monthly,2.0,0,6,Excellent quality!
+CUST_0280,50,Female,77714.0,18,Gold,1501.26,134,Grocery,233,Los Angeles,Yearly,4.0,0,1,Loved the experience!
+CUST_0281,26,Male,107896.0,3,Gold,,46,Fashion,332,Berlin,Monthly,5.0,0,8,Loved the experience!
+CUST_0282,23,Female,82292.0,28,Bronze,224.98,50,Grocery,174,London,Yearly,3.0,0,2,
+CUST_0283,33,Male,49055.0,70,Platinum,472.95,106,Sports,331,Los Angeles,Monthly,4.0,0,1,Excellent quality!
+CUST_0284,46,Female,62891.0,44,Bronze,1503.02,146,Electronics,324,Houston,Yearly,4.0,0,2,Excellent quality!
+CUST_0285,20,Male,101912.0,21,Bronze,556.27,72,Grocery,356,New York,Yearly,4.0,0,1,Could be better.
+CUST_0286,37,Female,26588.0,28,Gold,1253.08,74,Sports,158,London,None,,0,7,Excellent quality!
+CUST_0287,53,Female,110536.0,54,Gold,171.52,17,Fashion,347,Berlin,Yearly,4.0,0,4,Great service!
+CUST_0288,36,Female,26304.0,54,Silver,909.88,70,Home & Living,347,Chicago,Yearly,,0,2,Could be better.
+CUST_0289,43,Male,27345.0,65,Bronze,1480.79,6,Fashion,285,New York,Yearly,2.0,0,4,
+CUST_0290,20,Female,49300.0,100,Silver,1376.16,26,Electronics,17,New York,None,1.0,0,10,Will not recommend.
+CUST_0291,36,Male,44259.0,21,Gold,1631.99,140,Fashion,43,Los Angeles,None,4.0,0,10,Excellent quality!
+CUST_0292,37,Male,111006.0,99,Bronze,1756.13,99,Fashion,154,Houston,Monthly,5.0,0,7,Loved the experience!
+CUST_0293,49,Male,108553.0,13,Bronze,1548.64,142,Fashion,354,New York,None,5.0,0,6,Great service!
+CUST_0294,24,Male,35352.0,57,Bronze,1346.46,22,Fashion,230,Berlin,Yearly,2.0,0,5,Excellent quality!
+CUST_0295,69,Female,149350.0,49,Bronze,73.13,51,Electronics,315,Berlin,None,4.0,0,0,Great service!
+CUST_0296,58,Female,,54,Gold,1074.58,104,Sports,224,Miami,None,1.0,0,9,Could be better.
+CUST_0297,50,Male,,10,Silver,85.02,89,Grocery,216,Miami,Monthly,5.0,0,0,Great service!
+CUST_0298,57,Male,22336.0,53,Platinum,1618.05,141,Home & Living,55,New York,None,3.0,0,0,
+CUST_0299,56,Male,82032.0,44,Bronze,648.24,138,Grocery,30,Los Angeles,Monthly,4.0,0,9,Will not recommend.
+CUST_0300,35,Male,95415.0,47,Gold,1129.23,9,Grocery,356,Los Angeles,Monthly,,0,7,Will not recommend.
+CUST_0301,57,Other,117852.0,53,Bronze,566.1,79,Home & Living,58,Chicago,Monthly,3.0,0,7,Great service!
+CUST_0302,18,Male,118876.0,74,Bronze,1567.18,52,Electronics,352,London,None,5.0,0,6,
+CUST_0303,28,Male,27521.0,46,Bronze,1774.14,130,Home & Living,234,London,Monthly,3.0,0,5,Excellent quality!
+CUST_0304,45,Male,91707.0,13,Bronze,803.3,13,Electronics,106,London,Monthly,2.0,0,3,Excellent quality!
+CUST_0305,74,Female,43481.0,37,Silver,1727.22,51,Grocery,190,Houston,None,1.0,0,0,Loved the experience!
+CUST_0306,42,Other,38474.0,24,Platinum,541.48,34,Electronics,17,Los Angeles,Monthly,1.0,0,8,Loved the experience!
+CUST_0307,67,Female,66760.0,2,Silver,1073.98,35,Sports,225,Chicago,Monthly,5.0,0,0,Great service!
+CUST_0308,40,Female,75718.0,86,Bronze,1718.94,131,Home & Living,166,Miami,Monthly,3.0,0,3,Could be better.
+CUST_0309,48,Female,64629.0,81,Bronze,658.5,120,Sports,70,Berlin,Yearly,4.0,0,2,Will not recommend.
+CUST_0310,47,Male,65232.0,100,Bronze,1908.54,70,Grocery,361,London,Yearly,4.0,0,6,
+CUST_0311,59,Female,106544.0,14,Silver,252.54,147,Home & Living,53,Miami,Monthly,4.0,0,4,Excellent quality!
+CUST_0312,52,Female,87169.0,10,Gold,46.37,67,Grocery,244,Miami,None,2.0,0,4,Loved the experience!
+CUST_0313,24,Female,147941.0,35,Platinum,1809.23,103,Sports,349,New York,None,2.0,0,3,Great service!
+CUST_0314,33,Female,,25,Bronze,146.61,73,Grocery,75,Houston,Yearly,4.0,0,0,Excellent quality!
+CUST_0315,43,Female,98021.0,3,Silver,1983.86,116,Home & Living,34,Chicago,Yearly,5.0,1,4,Great service!
+CUST_0316,65,Female,129153.0,17,Silver,1903.28,133,Home & Living,266,Houston,Yearly,2.0,0,3,Great service!
+CUST_0317,74,Other,89184.0,12,Silver,282.67,67,Grocery,316,New York,Yearly,2.0,0,9,Will not recommend.
+CUST_0318,69,Female,67945.0,54,Silver,1079.79,139,Home & Living,299,Chicago,Monthly,,0,7,Could be better.
+CUST_0319,66,Female,33140.0,24,Silver,377.99,121,Home & Living,120,Chicago,Monthly,1.0,0,1,Excellent quality!
+CUST_0320,19,Female,146468.0,29,Silver,862.03,94,Grocery,323,Los Angeles,None,,0,7,Loved the experience!
+CUST_0321,18,Male,103457.0,43,Bronze,132.24,129,Sports,24,Houston,Monthly,2.0,0,0,Great service!
+CUST_0322,65,Female,34357.0,25,Gold,455.61,91,Home & Living,159,Houston,Yearly,2.0,0,3,Loved the experience!
+CUST_0323,29,Male,131672.0,100,Bronze,732.91,92,Home & Living,83,Los Angeles,None,3.0,0,2,Excellent quality!
+CUST_0324,22,Female,88673.0,60,Silver,882.91,63,Home & Living,113,Miami,Yearly,5.0,0,4,Will not recommend.
+CUST_0325,54,Other,141673.0,90,Silver,1955.22,29,Home & Living,222,New York,Yearly,5.0,0,4,Will not recommend.
+CUST_0326,49,Female,85633.0,65,Silver,1617.65,12,Grocery,165,Houston,Yearly,3.0,0,4,
+CUST_0327,72,Male,96943.0,84,Platinum,1477.45,77,Sports,190,Los Angeles,Monthly,3.0,0,3,
+CUST_0328,26,Male,116111.0,28,Gold,1078.71,41,Sports,174,Berlin,None,1.0,0,7,
+CUST_0329,58,Male,98258.0,16,Gold,1681.6,130,Electronics,0,Chicago,Yearly,5.0,0,2,Excellent quality!
+CUST_0330,52,Female,32924.0,47,Silver,685.25,37,Home & Living,228,London,None,5.0,0,3,Great service!
+CUST_0331,36,Male,89286.0,81,Gold,1420.71,24,Home & Living,85,Berlin,None,3.0,0,0,Will not recommend.
+CUST_0332,65,Male,113269.0,92,Silver,1987.63,99,Electronics,61,Los Angeles,None,4.0,1,6,Loved the experience!
+CUST_0333,33,Male,147563.0,58,Gold,636.11,100,Sports,319,London,None,,0,0,Loved the experience!
+CUST_0334,20,Female,94071.0,76,Silver,1351.29,139,Fashion,205,Miami,Yearly,1.0,0,1,
+CUST_0335,37,Female,77326.0,27,Platinum,1690.19,58,Fashion,104,New York,Yearly,4.0,0,10,Excellent quality!
+CUST_0336,41,Male,110023.0,53,Platinum,1832.46,29,Sports,317,London,Yearly,4.0,1,6,Excellent quality!
+CUST_0337,71,Male,140101.0,42,Gold,1438.69,143,Home & Living,290,Miami,Yearly,4.0,0,0,Great service!
+CUST_0338,73,Female,50651.0,59,Bronze,574.38,60,Fashion,249,London,None,2.0,0,10,
+CUST_0339,50,Female,90202.0,47,Bronze,659.3,95,Grocery,12,Chicago,Monthly,1.0,0,2,Excellent quality!
+CUST_0340,41,Female,68777.0,94,Gold,51.31,42,Grocery,162,Chicago,None,3.0,0,5,Great service!
+CUST_0341,69,Male,36994.0,34,Bronze,1524.16,43,Electronics,42,Chicago,None,4.0,0,5,Excellent quality!
+CUST_0342,28,Female,87263.0,37,Gold,95.05,74,Sports,110,Chicago,None,2.0,0,5,Will not recommend.
+CUST_0343,66,Female,79634.0,6,Silver,1730.66,64,Sports,204,Los Angeles,None,4.0,0,10,Great service!
+CUST_0344,25,Female,120158.0,7,Silver,246.13,2,Fashion,255,Chicago,Monthly,2.0,0,1,Excellent quality!
+CUST_0345,53,Female,30800.0,96,Platinum,352.03,66,Home & Living,306,Berlin,Monthly,1.0,0,1,Excellent quality!
+CUST_0346,55,Male,57823.0,96,Silver,958.29,31,Sports,143,Chicago,Monthly,4.0,0,5,Great service!
+CUST_0347,57,Male,128575.0,25,Silver,1478.38,115,Fashion,145,Berlin,Monthly,2.0,0,9,Loved the experience!
+CUST_0348,37,Female,83878.0,33,Silver,286.61,26,Fashion,300,Los Angeles,Yearly,5.0,0,4,
+CUST_0349,52,Female,38708.0,55,Bronze,885.74,29,Sports,163,Chicago,None,5.0,0,6,Excellent quality!
+CUST_0350,65,Female,32819.0,58,Gold,970.87,78,Fashion,168,Miami,None,2.0,0,6,Excellent quality!
+CUST_0351,42,Female,94905.0,7,Bronze,432.45,25,Electronics,297,Miami,Yearly,4.0,0,4,Will not recommend.
+CUST_0352,52,Female,83870.0,57,Platinum,239.96,48,Electronics,232,Houston,Monthly,4.0,0,7,Great service!
+CUST_0353,42,Female,29283.0,12,Gold,1674.48,65,Sports,270,Miami,Monthly,1.0,0,9,Will not recommend.
+CUST_0354,46,Male,50573.0,16,Bronze,1009.91,67,Home & Living,59,New York,Monthly,1.0,0,5,Will not recommend.
+CUST_0355,35,Female,98707.0,80,Gold,38.62,90,Electronics,295,New York,Yearly,3.0,0,4,Will not recommend.
+CUST_0356,63,Male,50933.0,43,Silver,1607.93,146,Electronics,234,New York,Yearly,,0,3,Great service!
+CUST_0357,35,Male,25774.0,100,Bronze,1961.78,137,Sports,164,Los Angeles,Monthly,4.0,0,6,Could be better.
+CUST_0358,19,Other,92055.0,77,Platinum,1215.79,38,Grocery,193,Miami,Yearly,3.0,0,3,Loved the experience!
+CUST_0359,71,Male,30983.0,7,Bronze,1012.38,87,Fashion,233,Berlin,Monthly,1.0,0,4,Excellent quality!
+CUST_0360,52,Male,116468.0,100,Bronze,1758.05,149,Electronics,182,New York,Yearly,2.0,0,4,Great service!
+CUST_0361,33,Male,116334.0,51,Silver,1905.51,65,Grocery,332,Houston,Yearly,5.0,0,0,Loved the experience!
+CUST_0362,58,Female,38133.0,73,Silver,1511.53,149,Home & Living,231,Los Angeles,Yearly,1.0,0,0,Great service!
+CUST_0363,53,Male,145555.0,32,Silver,896.45,27,Grocery,360,Houston,Yearly,1.0,0,2,Loved the experience!
+CUST_0364,50,Male,34939.0,75,Gold,1188.52,106,Sports,106,Miami,None,2.0,0,10,Great service!
+CUST_0365,21,Male,20781.0,8,Silver,1404.86,123,Home & Living,222,Chicago,Monthly,4.0,0,2,
+CUST_0366,50,Male,134586.0,97,Silver,396.6,44,Home & Living,79,Houston,Yearly,2.0,0,1,Excellent quality!
+CUST_0367,31,Male,76700.0,87,Bronze,899.93,100,Grocery,233,Chicago,None,1.0,0,1,Loved the experience!
+CUST_0368,38,Male,47624.0,89,Bronze,1661.34,28,Sports,183,Los Angeles,Yearly,4.0,0,5,Great service!
+CUST_0369,65,Female,26823.0,72,Bronze,1312.9,17,Electronics,184,Houston,None,,0,0,Could be better.
+CUST_0370,37,Male,38489.0,45,Bronze,828.3,127,Grocery,133,Houston,Yearly,1.0,0,5,Excellent quality!
+CUST_0371,73,Male,138555.0,86,Silver,1330.09,123,Electronics,219,London,Yearly,2.0,0,4,Great service!
+CUST_0372,25,Male,,59,Bronze,245.26,131,Grocery,287,Los Angeles,Monthly,3.0,0,5,Could be better.
+CUST_0373,24,Male,139664.0,4,Bronze,808.98,76,Electronics,363,Los Angeles,Yearly,5.0,0,4,Excellent quality!
+CUST_0374,20,Female,49118.0,67,Bronze,1588.33,46,Grocery,201,New York,Monthly,3.0,0,6,Excellent quality!
+CUST_0375,34,Female,120417.0,29,Platinum,448.81,69,Home & Living,145,Miami,Monthly,2.0,0,0,Excellent quality!
+CUST_0376,50,Male,101816.0,29,Platinum,380.06,137,Fashion,323,Houston,Yearly,3.0,0,2,Excellent quality!
+CUST_0377,65,Male,42263.0,98,Silver,1902.13,85,Home & Living,126,Houston,Yearly,2.0,0,5,
+CUST_0378,29,Male,33565.0,98,Platinum,427.7,11,Electronics,134,Berlin,Monthly,1.0,0,0,Loved the experience!
+CUST_0379,68,Female,40354.0,28,Gold,529.23,69,Sports,113,Los Angeles,Yearly,4.0,0,10,Could be better.
+CUST_0380,39,Female,62951.0,77,Silver,1939.54,99,Home & Living,263,Los Angeles,Yearly,5.0,0,10,Excellent quality!
+CUST_0381,72,Female,111179.0,79,Bronze,1472.07,91,Fashion,63,Miami,Monthly,4.0,0,6,Excellent quality!
+CUST_0382,39,Male,43648.0,87,Gold,1402.2,94,Electronics,134,Los Angeles,Yearly,4.0,1,3,
+CUST_0383,63,Female,70729.0,44,Gold,1707.32,115,Home & Living,40,Chicago,None,4.0,0,2,Great service!
+CUST_0384,47,Male,61971.0,90,Silver,240.49,31,Grocery,295,Chicago,Yearly,2.0,0,9,Loved the experience!
+CUST_0385,55,Male,38658.0,4,Gold,1414.85,11,Sports,2,London,Yearly,2.0,0,8,Will not recommend.
+CUST_0386,55,Male,41253.0,90,Silver,,87,Electronics,193,Chicago,Yearly,5.0,0,0,Will not recommend.
+CUST_0387,62,Male,84166.0,9,Gold,1660.01,121,Home & Living,109,Chicago,Yearly,2.0,0,7,Will not recommend.
+CUST_0388,68,Female,68563.0,5,Platinum,1021.2,130,Electronics,220,Miami,None,2.0,0,0,Excellent quality!
+CUST_0389,71,Female,46390.0,56,Bronze,1244.28,105,Grocery,3,Houston,Yearly,2.0,0,4,Great service!
+CUST_0390,25,Male,108664.0,96,Gold,,27,Fashion,243,Chicago,Monthly,2.0,0,9,Excellent quality!
+CUST_0391,44,Female,71578.0,84,Silver,961.54,2,Home & Living,165,London,Yearly,1.0,0,7,Excellent quality!
+CUST_0392,44,Other,99025.0,50,Silver,1538.26,103,Electronics,25,Los Angeles,None,5.0,0,5,Will not recommend.
+CUST_0393,51,Female,123850.0,75,Gold,1260.85,101,Electronics,16,Chicago,Monthly,2.0,0,6,Will not recommend.
+CUST_0394,38,Female,52658.0,15,Bronze,1270.19,21,Electronics,215,London,None,5.0,0,10,Could be better.
+CUST_0395,47,Female,26852.0,32,Silver,906.06,58,Fashion,91,Miami,None,3.0,0,7,Excellent quality!
+CUST_0396,50,Other,147282.0,28,Bronze,1066.91,133,Electronics,30,Berlin,Monthly,1.0,0,5,Excellent quality!
+CUST_0397,45,Female,114986.0,22,Silver,1493.98,85,Sports,204,Berlin,None,2.0,0,10,Excellent quality!
+CUST_0398,64,Male,22551.0,17,Silver,1653.62,93,Sports,206,Berlin,Yearly,1.0,0,5,
+CUST_0399,50,Male,91947.0,59,Gold,1396.16,20,Electronics,106,Los Angeles,None,1.0,0,10,Could be better.
+CUST_0400,22,Female,81001.0,90,Bronze,1848.91,61,Sports,145,London,Yearly,,0,5,
+CUST_0401,65,Male,69159.0,71,Silver,1642.44,38,Home & Living,100,Chicago,Yearly,5.0,0,4,Excellent quality!
+CUST_0402,36,Female,,57,Bronze,1128.11,148,Sports,317,Houston,Yearly,1.0,0,7,Excellent quality!
+CUST_0403,21,Male,71707.0,26,Gold,,25,Electronics,240,Los Angeles,None,4.0,0,1,Great service!
+CUST_0404,52,Male,53243.0,25,Platinum,1853.35,130,Grocery,246,Los Angeles,Monthly,3.0,0,6,
+CUST_0405,66,Male,41800.0,10,Platinum,1242.14,121,Home & Living,162,Berlin,Yearly,4.0,0,3,Loved the experience!
+CUST_0406,34,Male,95939.0,45,Gold,1651.37,26,Fashion,172,Houston,Monthly,3.0,0,0,Excellent quality!
+CUST_0407,61,Female,77828.0,83,Gold,1380.73,67,Electronics,34,Berlin,Yearly,4.0,0,4,Great service!
+CUST_0408,45,Female,27239.0,11,Bronze,1108.35,1,Fashion,283,Los Angeles,Yearly,4.0,0,2,Loved the experience!
+CUST_0409,47,Female,26710.0,77,Bronze,491.26,51,Grocery,358,Chicago,Yearly,1.0,0,3,Will not recommend.
+CUST_0410,46,Female,41384.0,53,Silver,857.74,5,Fashion,357,Berlin,Yearly,1.0,0,6,Will not recommend.
+CUST_0411,63,Male,41038.0,72,Gold,1935.81,13,Electronics,20,Berlin,Monthly,3.0,0,4,Great service!
+CUST_0412,70,Female,60846.0,68,Platinum,1318.95,147,Electronics,307,Berlin,Monthly,5.0,0,3,Excellent quality!
+CUST_0413,23,Female,,95,Bronze,1133.15,140,Grocery,162,Los Angeles,Monthly,1.0,0,0,Great service!
+CUST_0414,52,Female,87821.0,28,Platinum,1866.58,48,Electronics,96,Chicago,Yearly,1.0,0,5,Loved the experience!
+CUST_0415,58,Male,57991.0,75,Silver,1177.16,57,Grocery,306,Houston,None,,0,10,Great service!
+CUST_0416,54,Female,99057.0,65,Silver,1056.9,115,Grocery,338,New York,Monthly,1.0,0,9,Could be better.
+CUST_0417,41,Female,133193.0,49,Bronze,1521.03,35,Electronics,54,Houston,None,5.0,0,5,Will not recommend.
+CUST_0418,46,Other,26971.0,47,Bronze,1428.2,76,Sports,332,Chicago,None,2.0,1,6,Will not recommend.
+CUST_0419,66,Female,49139.0,52,Silver,394.39,94,Grocery,126,Miami,Yearly,4.0,0,0,Loved the experience!
+CUST_0420,63,Male,105445.0,88,Silver,947.9,5,Electronics,192,Berlin,Yearly,4.0,0,3,Excellent quality!
+CUST_0421,70,Female,97067.0,54,Bronze,950.31,22,Sports,242,Houston,None,2.0,0,8,Great service!
+CUST_0422,48,Female,,60,Silver,762.67,103,Grocery,348,Miami,Monthly,2.0,0,9,Great service!
+CUST_0423,52,Male,104742.0,57,Gold,1039.41,131,Sports,87,Miami,Yearly,2.0,0,5,Will not recommend.
+CUST_0424,50,Female,,47,Gold,832.08,124,Home & Living,335,Chicago,Yearly,3.0,0,1,
+CUST_0425,69,Female,26530.0,31,Platinum,406.7,53,Home & Living,214,Chicago,Yearly,5.0,0,3,Loved the experience!
+CUST_0426,38,Male,31116.0,46,Bronze,830.61,69,Sports,91,Berlin,None,5.0,0,5,Could be better.
+CUST_0427,49,Male,,26,Bronze,153.83,104,Grocery,302,New York,Monthly,4.0,0,3,Will not recommend.
+CUST_0428,40,Male,20282.0,5,Gold,1155.81,16,Electronics,234,London,Yearly,4.0,0,9,Loved the experience!
+CUST_0429,50,Male,99473.0,84,Silver,1708.77,116,Fashion,183,Los Angeles,Yearly,4.0,0,6,Great service!
+CUST_0430,20,Male,21898.0,52,Bronze,1453.32,76,Electronics,37,Houston,Yearly,1.0,0,2,Great service!
+CUST_0431,35,Female,24135.0,75,Bronze,727.18,109,Fashion,138,Chicago,Yearly,4.0,0,5,Loved the experience!
+CUST_0432,42,Male,26629.0,54,Silver,183.27,39,Fashion,194,Houston,Yearly,2.0,0,3,Loved the experience!
+CUST_0433,59,Male,129472.0,33,Bronze,412.28,89,Grocery,14,London,None,4.0,0,2,Great service!
+CUST_0434,48,Female,145147.0,50,Bronze,1095.53,112,Sports,256,London,Yearly,2.0,0,2,Excellent quality!
+CUST_0435,71,Female,105120.0,38,Bronze,422.04,47,Electronics,134,Berlin,None,3.0,0,1,
+CUST_0436,20,Male,139798.0,27,Bronze,1092.51,137,Sports,0,Miami,Yearly,1.0,0,10,Loved the experience!
+CUST_0437,57,Male,109087.0,98,Silver,470.88,128,Home & Living,48,Berlin,Monthly,1.0,0,2,Could be better.
+CUST_0438,63,Male,85031.0,15,Silver,1699.36,77,Grocery,95,Los Angeles,Monthly,5.0,0,9,
+CUST_0439,41,Female,53380.0,96,Silver,800.57,15,Grocery,200,New York,Monthly,3.0,0,0,Excellent quality!
+CUST_0440,67,Male,149951.0,61,Bronze,498.65,36,Home & Living,25,Houston,Yearly,2.0,0,2,Loved the experience!
+CUST_0441,49,Female,132507.0,21,Bronze,1626.53,63,Electronics,342,Los Angeles,Yearly,3.0,0,8,Excellent quality!
+CUST_0442,64,Other,37071.0,46,Silver,692.25,69,Home & Living,234,New York,None,1.0,0,3,Great service!
+CUST_0443,39,Male,40074.0,69,Silver,231.86,74,Electronics,348,Houston,None,2.0,0,2,Could be better.
+CUST_0444,40,Female,110724.0,6,Silver,1145.11,24,Fashion,243,Los Angeles,Monthly,3.0,0,7,Will not recommend.
+CUST_0445,19,Other,87843.0,38,Bronze,1167.31,49,Grocery,357,Chicago,Monthly,1.0,0,0,Great service!
+CUST_0446,44,Male,59901.0,62,Platinum,1432.24,146,Electronics,326,Houston,Monthly,2.0,0,4,Loved the experience!
+CUST_0447,59,Female,31205.0,86,Bronze,488.04,7,Sports,350,Los Angeles,Yearly,2.0,0,0,Great service!
+CUST_0448,19,Female,75661.0,62,Silver,893.1,4,Sports,50,London,Monthly,1.0,0,6,Excellent quality!
+CUST_0449,43,Female,144661.0,82,Silver,571.91,90,Grocery,80,New York,Monthly,2.0,1,4,Loved the experience!
+CUST_0450,34,Female,25906.0,78,Silver,171.1,60,Home & Living,35,Los Angeles,None,1.0,0,1,Could be better.
+CUST_0451,57,Female,22591.0,74,Bronze,1754.46,55,Home & Living,66,Chicago,None,4.0,0,0,Great service!
+CUST_0452,50,Female,145576.0,46,Silver,1460.45,16,Electronics,128,Berlin,Monthly,4.0,0,10,Great service!
+CUST_0453,26,Female,82987.0,13,Gold,609.91,29,Home & Living,154,Houston,Yearly,2.0,0,6,Could be better.
+CUST_0454,60,Female,83370.0,95,Bronze,1202.75,14,Grocery,244,Houston,Yearly,2.0,0,0,
+CUST_0455,71,Female,100685.0,94,Bronze,410.51,79,Electronics,110,Houston,None,1.0,0,2,Great service!
+CUST_0456,65,Female,130454.0,3,Bronze,1781.57,33,Fashion,167,Chicago,Yearly,2.0,0,10,Will not recommend.
+CUST_0457,56,Male,125487.0,94,Gold,238.66,21,Home & Living,141,New York,Monthly,5.0,0,5,Excellent quality!
+CUST_0458,46,Male,74400.0,6,Bronze,17.64,145,Home & Living,355,Houston,None,4.0,0,5,Great service!
+CUST_0459,59,Male,45150.0,93,Platinum,1009.0,23,Electronics,196,New York,Yearly,2.0,0,6,Excellent quality!
+CUST_0460,72,Male,51852.0,8,Silver,1170.42,57,Sports,108,Los Angeles,Monthly,2.0,0,10,Could be better.
+CUST_0461,43,Male,62870.0,44,Platinum,1162.14,142,Home & Living,78,London,Yearly,3.0,0,10,Loved the experience!
+CUST_0462,52,Female,139796.0,33,Platinum,118.48,93,Grocery,160,London,Yearly,2.0,0,0,Loved the experience!
+CUST_0463,67,Male,72756.0,81,Silver,634.95,20,Home & Living,18,New York,Yearly,5.0,0,6,Will not recommend.
+CUST_0464,42,Female,135357.0,75,Bronze,1003.41,19,Fashion,126,New York,Monthly,4.0,0,1,Loved the experience!
+CUST_0465,41,Male,139052.0,77,Bronze,440.99,103,Home & Living,204,London,Yearly,3.0,0,5,Excellent quality!
+CUST_0466,30,Female,76481.0,50,Bronze,1746.53,77,Sports,28,Houston,Monthly,,0,7,Excellent quality!
+CUST_0467,24,Other,21283.0,11,Gold,183.35,33,Home & Living,206,Miami,None,1.0,1,4,Excellent quality!
+CUST_0468,74,Male,53691.0,95,Bronze,,18,Electronics,279,Miami,Monthly,4.0,0,9,Excellent quality!
+CUST_0469,53,Female,21125.0,28,Bronze,,73,Home & Living,150,Chicago,Monthly,1.0,0,2,Will not recommend.
+CUST_0470,62,Male,87065.0,70,Silver,530.88,17,Sports,239,Berlin,Yearly,5.0,0,10,Could be better.
+CUST_0471,37,Female,148734.0,41,Platinum,1252.24,19,Electronics,265,London,None,2.0,0,7,Loved the experience!
+CUST_0472,18,Male,46170.0,16,Bronze,1660.48,70,Grocery,181,London,None,4.0,0,7,Excellent quality!
+CUST_0473,25,Female,28438.0,68,Bronze,388.77,120,Electronics,104,Chicago,Yearly,3.0,0,3,Loved the experience!
+CUST_0474,63,Male,40095.0,99,Bronze,1835.27,101,Fashion,235,Miami,Monthly,2.0,0,7,Could be better.
+CUST_0475,33,Female,36154.0,48,Platinum,1111.58,34,Electronics,172,Los Angeles,None,1.0,0,4,Excellent quality!
+CUST_0476,31,Female,28004.0,56,Silver,605.47,84,Grocery,157,Houston,Yearly,1.0,0,10,Loved the experience!
+CUST_0477,29,Male,29752.0,64,Bronze,867.41,74,Home & Living,171,Houston,Monthly,3.0,0,4,Great service!
+CUST_0478,68,Male,75426.0,59,Bronze,631.26,88,Electronics,310,Los Angeles,None,5.0,1,2,Could be better.
+CUST_0479,40,Male,128896.0,90,Bronze,1452.97,85,Electronics,156,Los Angeles,Monthly,3.0,1,6,Loved the experience!
+CUST_0480,32,Male,46819.0,62,Bronze,1594.64,11,Electronics,257,Miami,None,4.0,0,10,Excellent quality!
+CUST_0481,45,Female,122168.0,76,Platinum,1667.55,91,Electronics,163,Chicago,None,3.0,0,10,
+CUST_0482,51,Male,112051.0,11,Gold,1971.68,144,Grocery,146,Los Angeles,Yearly,1.0,0,8,Loved the experience!
+CUST_0483,19,Male,147905.0,89,Silver,1584.66,127,Sports,153,Chicago,None,5.0,0,8,Loved the experience!
+CUST_0484,49,Male,44217.0,18,Gold,1206.75,113,Sports,37,Berlin,None,5.0,0,0,Excellent quality!
+CUST_0485,40,Female,145949.0,19,Bronze,685.05,80,Electronics,130,New York,Monthly,3.0,0,0,Great service!
+CUST_0486,39,Male,108708.0,87,Gold,1093.74,7,Grocery,357,Houston,Yearly,4.0,0,9,Will not recommend.
+CUST_0487,68,Male,52994.0,55,Gold,91.73,16,Grocery,254,Miami,Monthly,1.0,0,10,
+CUST_0488,42,Male,35036.0,82,Bronze,1492.2,16,Electronics,207,Houston,Yearly,,0,4,Excellent quality!
+CUST_0489,39,Male,97275.0,26,Gold,897.45,12,Fashion,94,Miami,None,,0,0,Great service!
+CUST_0490,39,Female,117756.0,6,Bronze,49.85,35,Electronics,347,New York,Yearly,3.0,0,3,Will not recommend.
+CUST_0491,66,Male,69416.0,4,Bronze,134.39,21,Fashion,326,Houston,Yearly,,0,0,Excellent quality!
+CUST_0492,69,Male,29587.0,29,Bronze,781.06,17,Electronics,170,New York,Yearly,,0,1,Excellent quality!
+CUST_0493,59,Female,130053.0,59,Silver,1171.01,32,Fashion,249,Miami,None,1.0,0,1,Excellent quality!
+CUST_0494,23,Female,115665.0,98,Gold,933.77,41,Fashion,189,Los Angeles,Monthly,5.0,0,3,Will not recommend.
+CUST_0495,32,Male,20645.0,17,Platinum,1242.22,134,Electronics,198,Berlin,Yearly,1.0,0,7,
+CUST_0496,71,Female,50930.0,43,Silver,965.79,27,Fashion,220,Houston,Monthly,2.0,0,1,Could be better.
+CUST_0497,60,Female,101835.0,80,Gold,1326.79,148,Home & Living,23,New York,Yearly,2.0,0,8,Excellent quality!
+CUST_0498,54,Male,142232.0,66,Gold,446.06,66,Sports,243,London,Monthly,2.0,0,8,Could be better.
+CUST_0499,50,Female,50090.0,34,Bronze,234.56,137,Grocery,323,Houston,Yearly,4.0,0,1,Great service!
+CUST_0500,25,Female,107489.0,8,Silver,1196.9,92,Fashion,127,Houston,Monthly,5.0,0,0,
+CUST_0501,70,Male,72142.0,13,Bronze,974.53,61,Fashion,92,Houston,Monthly,1.0,0,9,Great service!
+CUST_0502,61,Male,131979.0,8,Silver,63.47,3,Grocery,299,Chicago,None,1.0,0,9,Will not recommend.
+CUST_0503,61,Male,46475.0,94,Platinum,767.16,103,Fashion,132,New York,Monthly,2.0,0,8,Excellent quality!
+CUST_0504,22,Female,38888.0,96,Bronze,221.19,55,Grocery,54,New York,Yearly,5.0,0,1,Could be better.
+CUST_0505,56,Other,63732.0,100,Gold,1067.4,1,Electronics,157,Houston,Monthly,5.0,0,7,Excellent quality!
+CUST_0506,21,Female,101623.0,94,Silver,797.6,101,Home & Living,28,Los Angeles,Yearly,3.0,0,2,Could be better.
+CUST_0507,23,Male,66305.0,65,Silver,1230.17,45,Home & Living,210,Houston,Yearly,5.0,0,0,Loved the experience!
+CUST_0508,62,Female,66037.0,43,Bronze,1613.15,26,Sports,153,Chicago,Yearly,5.0,0,10,
+CUST_0509,49,Female,29346.0,39,Bronze,606.34,121,Fashion,292,Miami,Monthly,1.0,0,0,Great service!
+CUST_0510,69,Male,20587.0,81,Bronze,1924.58,142,Sports,221,Chicago,Yearly,5.0,0,9,Excellent quality!
+CUST_0511,47,Male,32763.0,59,Bronze,1075.91,46,Electronics,114,Los Angeles,Yearly,5.0,0,1,Will not recommend.
+CUST_0512,64,Female,79165.0,84,Bronze,1240.4,122,Home & Living,157,Houston,None,1.0,0,6,Excellent quality!
+CUST_0513,52,Male,127481.0,88,Silver,1364.54,31,Electronics,258,New York,Yearly,5.0,0,5,Great service!
+CUST_0514,72,Female,89615.0,86,Bronze,1336.8,59,Electronics,250,Berlin,Yearly,1.0,0,10,Could be better.
+CUST_0515,57,Male,56116.0,93,Gold,1026.83,29,Fashion,121,London,Monthly,3.0,0,1,Excellent quality!
+CUST_0516,69,Male,140987.0,86,Silver,863.24,106,Electronics,298,Houston,Monthly,,0,3,Loved the experience!
+CUST_0517,33,Male,,44,Silver,117.03,17,Home & Living,262,Los Angeles,Monthly,1.0,0,1,Excellent quality!
+CUST_0518,30,Male,111353.0,9,Silver,53.95,142,Sports,48,New York,Monthly,1.0,0,0,Excellent quality!
+CUST_0519,67,Female,110301.0,37,Silver,722.34,24,Home & Living,328,Chicago,Monthly,5.0,1,2,Excellent quality!
+CUST_0520,59,Male,115648.0,74,Platinum,673.99,109,Fashion,296,Miami,Yearly,1.0,0,3,
+CUST_0521,47,Female,45556.0,36,Bronze,781.51,91,Home & Living,361,Miami,Yearly,2.0,0,9,Loved the experience!
+CUST_0522,36,Female,79042.0,92,Bronze,285.35,25,Grocery,76,Berlin,None,2.0,0,4,Great service!
+CUST_0523,34,Female,38099.0,28,Gold,1478.95,32,Sports,126,Houston,Monthly,3.0,0,4,Great service!
+CUST_0524,73,Male,129089.0,42,Bronze,1715.36,116,Grocery,196,Chicago,Yearly,1.0,1,6,Will not recommend.
+CUST_0525,36,Female,65096.0,43,Bronze,1878.04,82,Grocery,220,Berlin,None,5.0,0,9,Great service!
+CUST_0526,45,Female,91986.0,85,Bronze,,110,Fashion,90,London,Yearly,5.0,0,7,Could be better.
+CUST_0527,72,Male,33230.0,88,Bronze,1404.72,146,Electronics,7,London,Monthly,4.0,0,8,Great service!
+CUST_0528,43,Male,49009.0,42,Silver,1712.55,37,Grocery,31,Berlin,Monthly,3.0,0,6,Great service!
+CUST_0529,54,Female,90969.0,66,Bronze,842.4,26,Home & Living,319,Los Angeles,Monthly,,0,4,Great service!
+CUST_0530,43,Other,53866.0,55,Gold,625.73,137,Electronics,268,Miami,Yearly,4.0,0,8,Excellent quality!
+CUST_0531,70,Male,125400.0,72,Gold,1874.08,64,Home & Living,190,Chicago,None,5.0,0,7,Could be better.
+CUST_0532,40,Female,104246.0,48,Silver,1036.2,72,Home & Living,348,Houston,Monthly,4.0,0,9,Loved the experience!
+CUST_0533,26,Female,96975.0,91,Silver,999.54,148,Electronics,162,New York,Monthly,2.0,0,8,Excellent quality!
+CUST_0534,29,Female,61855.0,22,Gold,,106,Electronics,60,Houston,None,2.0,0,9,Great service!
+CUST_0535,70,Other,101557.0,27,Bronze,225.23,86,Home & Living,263,Houston,None,5.0,0,7,
+CUST_0536,18,Female,26416.0,93,Gold,1685.79,53,Fashion,284,Chicago,Yearly,3.0,0,5,Could be better.
+CUST_0537,18,Male,92516.0,67,Gold,1232.13,92,Sports,94,Miami,Yearly,1.0,0,3,Great service!
+CUST_0538,64,Male,75915.0,13,Gold,658.39,99,Sports,40,Chicago,Yearly,3.0,0,8,Excellent quality!
+CUST_0539,51,Male,38058.0,45,Silver,391.56,11,Fashion,148,New York,Monthly,3.0,0,8,Excellent quality!
+CUST_0540,49,Female,96637.0,10,Bronze,1115.44,31,Electronics,203,Berlin,Yearly,1.0,0,9,Loved the experience!
+CUST_0541,71,Female,60718.0,100,Silver,1172.0,100,Home & Living,266,Chicago,Yearly,2.0,0,9,Excellent quality!
+CUST_0542,65,Male,52602.0,9,Gold,421.92,87,Sports,1,Los Angeles,None,2.0,0,8,Great service!
+CUST_0543,42,Female,,54,Bronze,1704.3,147,Home & Living,177,Houston,Monthly,1.0,0,9,Will not recommend.
+CUST_0544,57,Female,98112.0,27,Gold,177.69,140,Fashion,193,Miami,Yearly,4.0,0,2,Great service!
+CUST_0545,62,Female,78067.0,34,Bronze,718.63,15,Home & Living,335,London,Yearly,3.0,1,10,Will not recommend.
+CUST_0546,70,Male,47516.0,1,Bronze,1363.96,101,Fashion,195,New York,Yearly,5.0,0,2,Will not recommend.
+CUST_0547,18,Female,149295.0,32,Bronze,555.5,29,Electronics,342,London,Monthly,2.0,0,10,
+CUST_0548,33,Male,107969.0,89,Bronze,1657.07,114,Fashion,248,Houston,Yearly,5.0,0,5,Great service!
+CUST_0549,56,Male,21089.0,93,Silver,1482.34,107,Fashion,211,Chicago,None,1.0,0,5,Loved the experience!
+CUST_0550,22,Male,57346.0,71,Bronze,1580.16,108,Sports,152,London,Yearly,5.0,0,5,Could be better.
+CUST_0551,39,Male,94663.0,67,Platinum,247.02,130,Home & Living,157,Los Angeles,Yearly,5.0,0,4,Excellent quality!
+CUST_0552,46,Male,,84,Silver,289.69,84,Sports,361,Chicago,Monthly,3.0,0,4,
+CUST_0553,72,Female,20155.0,20,Bronze,580.08,15,Grocery,138,Houston,Monthly,,0,1,Excellent quality!
+CUST_0554,20,Male,143950.0,94,Silver,1040.97,132,Fashion,220,London,Yearly,5.0,0,6,
+CUST_0555,29,Female,87494.0,35,Gold,1498.55,50,Grocery,272,Berlin,None,2.0,0,3,Excellent quality!
+CUST_0556,43,Male,96229.0,99,Gold,1674.7,23,Sports,153,New York,None,1.0,0,2,
+CUST_0557,33,Female,124648.0,91,Bronze,1411.63,59,Home & Living,248,London,Yearly,2.0,0,7,Excellent quality!
+CUST_0558,68,Other,58547.0,90,Gold,1857.91,90,Sports,278,Berlin,Yearly,4.0,0,3,Great service!
+CUST_0559,54,Male,48795.0,78,Gold,1480.1,115,Home & Living,303,Berlin,None,5.0,0,10,Loved the experience!
+CUST_0560,39,Male,75296.0,17,Bronze,619.47,75,Home & Living,275,London,Yearly,1.0,0,3,Could be better.
+CUST_0561,74,Male,41447.0,18,Bronze,,123,Electronics,1,Miami,Yearly,2.0,0,7,Loved the experience!
+CUST_0562,46,Female,56598.0,45,Silver,1395.42,136,Fashion,87,London,Monthly,5.0,0,0,Will not recommend.
+CUST_0563,31,Female,61814.0,93,Bronze,393.81,139,Sports,286,Houston,None,3.0,0,8,Could be better.
+CUST_0564,45,Male,110751.0,84,Gold,194.5,18,Home & Living,129,Berlin,Yearly,2.0,0,6,
+CUST_0565,22,Female,145118.0,53,Bronze,1069.12,50,Sports,77,New York,None,2.0,0,1,Great service!
+CUST_0566,64,Male,95330.0,91,Platinum,1645.07,142,Sports,259,Houston,None,4.0,0,10,Excellent quality!
+CUST_0567,66,Male,141347.0,82,Silver,211.75,118,Home & Living,240,Los Angeles,Monthly,3.0,0,5,Excellent quality!
+CUST_0568,47,Female,118745.0,68,Bronze,1585.86,137,Grocery,140,Chicago,None,4.0,0,7,
+CUST_0569,63,Male,107960.0,65,Bronze,1625.03,139,Fashion,227,London,None,3.0,0,10,
+CUST_0570,69,Female,83278.0,1,Silver,969.73,108,Fashion,162,Miami,Yearly,2.0,0,4,Excellent quality!
+CUST_0571,22,Male,75077.0,58,Gold,124.05,67,Electronics,235,New York,Monthly,4.0,0,5,Could be better.
+CUST_0572,29,Other,132782.0,26,Gold,357.43,78,Electronics,127,Miami,Monthly,5.0,0,9,Will not recommend.
+CUST_0573,33,Male,142046.0,20,Bronze,1417.78,75,Electronics,199,Miami,Yearly,3.0,0,7,Could be better.
+CUST_0574,43,Male,122932.0,87,Bronze,1426.44,39,Fashion,30,Miami,Yearly,2.0,0,5,Excellent quality!
+CUST_0575,43,Female,91906.0,10,Bronze,1797.73,25,Grocery,137,London,Yearly,1.0,0,8,Excellent quality!
+CUST_0576,65,Male,29528.0,59,Silver,1169.55,21,Fashion,20,New York,Monthly,3.0,1,8,Excellent quality!
+CUST_0577,38,Other,113812.0,75,Bronze,256.97,138,Fashion,233,New York,None,3.0,0,8,Great service!
+CUST_0578,56,Female,70100.0,41,Silver,251.62,15,Fashion,201,Berlin,Monthly,5.0,0,5,Could be better.
+CUST_0579,53,Female,129869.0,5,Silver,1445.05,48,Fashion,278,Miami,Monthly,3.0,0,8,Loved the experience!
+CUST_0580,50,Female,28179.0,65,Platinum,375.73,86,Grocery,130,Berlin,Yearly,3.0,0,2,Great service!
+CUST_0581,47,Female,68781.0,17,Bronze,663.49,149,Electronics,147,Berlin,Yearly,5.0,0,4,Will not recommend.
+CUST_0582,54,Female,75267.0,22,Bronze,979.55,116,Sports,28,Chicago,Monthly,5.0,0,1,Great service!
+CUST_0583,40,Female,,98,Silver,59.28,50,Electronics,360,London,Monthly,4.0,0,7,Excellent quality!
+CUST_0584,27,Female,43952.0,41,Silver,505.15,141,Electronics,307,London,Monthly,2.0,0,10,Will not recommend.
+CUST_0585,71,Male,73798.0,93,Bronze,821.7,69,Sports,161,Houston,None,2.0,0,3,Will not recommend.
+CUST_0586,22,Male,118696.0,68,Platinum,,4,Fashion,356,Berlin,None,4.0,0,5,
+CUST_0587,53,Female,130434.0,69,Gold,281.38,78,Grocery,339,London,Yearly,2.0,0,5,Loved the experience!
+CUST_0588,51,Male,70939.0,11,Bronze,1458.74,9,Grocery,60,Miami,None,3.0,0,4,Great service!
+CUST_0589,69,Female,49516.0,56,Bronze,1628.16,121,Electronics,124,Los Angeles,None,4.0,0,0,Will not recommend.
+CUST_0590,48,Male,76526.0,51,Silver,522.38,115,Sports,70,Miami,Monthly,4.0,1,10,Great service!
+CUST_0591,27,Male,30449.0,21,Gold,1551.09,101,Home & Living,325,New York,None,2.0,0,6,Great service!
+CUST_0592,36,Female,70290.0,99,Bronze,777.25,149,Fashion,363,London,None,1.0,1,9,Great service!
+CUST_0593,49,Female,146688.0,76,Silver,1018.3,146,Electronics,242,London,Monthly,2.0,0,7,Could be better.
+CUST_0594,18,Male,106661.0,26,Silver,1713.44,97,Grocery,248,Houston,Monthly,1.0,0,0,Great service!
+CUST_0595,73,Female,92954.0,19,Bronze,1502.41,81,Sports,220,Berlin,Monthly,4.0,0,9,Loved the experience!
+CUST_0596,22,Female,42746.0,60,Silver,1612.18,43,Sports,20,Los Angeles,Monthly,1.0,0,6,Excellent quality!
+CUST_0597,62,Male,87990.0,71,Platinum,282.32,95,Electronics,81,London,None,3.0,0,3,Loved the experience!
+CUST_0598,21,Female,,47,Bronze,148.74,6,Home & Living,343,Houston,Yearly,5.0,1,5,
+CUST_0599,33,Male,138362.0,71,Bronze,1787.88,67,Grocery,9,Houston,None,1.0,0,8,Loved the experience!
+CUST_0600,41,Male,103297.0,26,Silver,781.79,140,Electronics,11,Los Angeles,None,5.0,0,4,Loved the experience!
+CUST_0601,33,Other,35223.0,40,Gold,582.88,100,Home & Living,262,Miami,Yearly,3.0,0,7,Excellent quality!
+CUST_0602,72,Male,92237.0,5,Platinum,1452.15,12,Sports,144,Miami,Yearly,5.0,0,4,Great service!
+CUST_0603,19,Female,22597.0,21,Silver,1674.47,66,Fashion,191,Miami,Monthly,3.0,0,1,Great service!
+CUST_0604,66,Female,85677.0,78,Gold,1726.35,2,Grocery,249,Chicago,Yearly,5.0,0,3,Excellent quality!
+CUST_0605,45,Male,22659.0,4,Silver,,143,Grocery,113,Berlin,Yearly,5.0,0,1,Loved the experience!
+CUST_0606,49,Female,106516.0,23,Silver,1705.9,81,Home & Living,25,Berlin,Monthly,2.0,0,6,Excellent quality!
+CUST_0607,44,Female,94567.0,84,Bronze,91.46,135,Electronics,270,Miami,Monthly,1.0,0,6,
+CUST_0608,37,Male,35037.0,15,Bronze,108.83,142,Sports,32,Los Angeles,None,5.0,0,2,Loved the experience!
+CUST_0609,41,Female,146498.0,93,Bronze,1250.8,70,Home & Living,61,Chicago,Yearly,4.0,0,6,Could be better.
+CUST_0610,29,Female,66738.0,8,Silver,135.58,115,Fashion,228,Berlin,Monthly,2.0,0,0,Could be better.
+CUST_0611,67,Female,123965.0,41,Bronze,655.97,88,Fashion,302,Miami,Yearly,1.0,0,0,
+CUST_0612,52,Female,91678.0,19,Platinum,1348.78,6,Fashion,94,Chicago,None,2.0,0,8,Excellent quality!
+CUST_0613,50,Male,32109.0,46,Bronze,681.16,27,Home & Living,34,Los Angeles,Yearly,1.0,0,5,
+CUST_0614,50,Female,42010.0,28,Bronze,367.4,82,Sports,192,Miami,Monthly,3.0,0,4,Will not recommend.
+CUST_0615,68,Female,28787.0,91,Silver,569.89,88,Grocery,75,New York,None,5.0,0,5,Excellent quality!
+CUST_0616,60,Female,128400.0,68,Gold,920.57,120,Electronics,248,London,Yearly,4.0,0,5,Will not recommend.
+CUST_0617,54,Female,28472.0,15,Bronze,956.02,24,Grocery,82,Los Angeles,Monthly,2.0,0,0,Will not recommend.
+CUST_0618,29,Female,135111.0,99,Bronze,1568.17,102,Sports,24,Houston,Yearly,2.0,0,4,
+CUST_0619,20,Female,43383.0,37,Platinum,1502.8,34,Grocery,56,Houston,None,2.0,0,8,Great service!
+CUST_0620,18,Female,81709.0,1,Bronze,919.07,47,Home & Living,31,Los Angeles,Monthly,2.0,0,3,
+CUST_0621,50,Female,89785.0,67,Bronze,1692.88,24,Fashion,318,Houston,Monthly,5.0,0,2,Great service!
+CUST_0622,57,Female,133253.0,24,Gold,237.33,65,Sports,11,Berlin,Monthly,1.0,0,0,Excellent quality!
+CUST_0623,27,Female,54518.0,27,Bronze,518.15,18,Sports,318,Los Angeles,None,5.0,0,1,Will not recommend.
+CUST_0624,60,Female,73909.0,40,Silver,1657.67,44,Grocery,332,New York,Monthly,3.0,0,2,Loved the experience!
+CUST_0625,61,Male,38351.0,63,Bronze,762.21,76,Home & Living,91,Los Angeles,Yearly,5.0,1,3,Will not recommend.
+CUST_0626,46,Male,89624.0,61,Bronze,1962.55,57,Grocery,0,Miami,None,5.0,0,6,Could be better.
+CUST_0627,30,Male,73330.0,36,Bronze,937.84,107,Grocery,325,Miami,Monthly,,0,5,Loved the experience!
+CUST_0628,29,Female,142477.0,98,Bronze,1585.95,124,Sports,135,Chicago,None,5.0,0,10,Excellent quality!
+CUST_0629,48,Female,35282.0,93,Bronze,810.59,139,Grocery,195,Houston,None,1.0,0,7,Great service!
+CUST_0630,63,Female,104866.0,24,Bronze,855.66,116,Fashion,132,London,None,4.0,0,8,Great service!
+CUST_0631,19,Male,127945.0,24,Gold,771.94,93,Grocery,85,Houston,Monthly,3.0,0,5,Great service!
+CUST_0632,68,Female,41778.0,4,Bronze,1440.96,42,Fashion,294,Berlin,Yearly,2.0,0,6,Loved the experience!
+CUST_0633,67,Male,,67,Silver,1099.56,28,Sports,278,Los Angeles,None,1.0,0,3,Excellent quality!
+CUST_0634,52,Male,79675.0,34,Gold,1888.12,123,Home & Living,323,London,None,,0,1,Excellent quality!
+CUST_0635,40,Female,25075.0,57,Silver,509.27,24,Fashion,179,London,Monthly,1.0,0,8,Will not recommend.
+CUST_0636,34,Female,95948.0,49,Bronze,210.12,136,Home & Living,3,Houston,None,1.0,0,8,Could be better.
+CUST_0637,43,Male,68454.0,87,Platinum,792.59,106,Home & Living,125,London,Yearly,2.0,0,3,Excellent quality!
+CUST_0638,25,Male,48365.0,53,Bronze,1237.26,118,Fashion,174,London,Monthly,4.0,0,2,Will not recommend.
+CUST_0639,46,Male,92766.0,23,Bronze,1722.99,53,Sports,250,Miami,Yearly,1.0,0,9,Loved the experience!
+CUST_0640,43,Male,68200.0,69,Gold,698.93,132,Electronics,20,New York,None,2.0,0,10,Could be better.
+CUST_0641,27,Female,,95,Silver,1311.04,100,Home & Living,104,Los Angeles,Yearly,3.0,0,5,Great service!
+CUST_0642,43,Male,33947.0,53,Silver,706.9,5,Home & Living,65,Houston,Yearly,2.0,0,2,Great service!
+CUST_0643,51,Female,99222.0,62,Bronze,,49,Sports,262,Miami,None,,0,0,Great service!
+CUST_0644,68,Female,114840.0,41,Silver,,98,Sports,48,Berlin,Yearly,2.0,0,3,Could be better.
+CUST_0645,58,Male,136219.0,57,Bronze,470.4,30,Grocery,15,Berlin,Yearly,2.0,0,0,Great service!
+CUST_0646,24,Male,98610.0,60,Platinum,814.44,72,Sports,144,Chicago,Yearly,2.0,0,1,Great service!
+CUST_0647,21,Male,72142.0,54,Bronze,1986.6,103,Home & Living,339,London,Yearly,1.0,0,2,Loved the experience!
+CUST_0648,70,Male,76307.0,70,Gold,1738.43,63,Fashion,249,London,Yearly,4.0,0,7,Great service!
+CUST_0649,67,Male,24493.0,57,Silver,1133.63,26,Electronics,342,Houston,None,2.0,0,9,Great service!
+CUST_0650,62,Female,144023.0,10,Gold,1038.09,37,Grocery,353,New York,Yearly,2.0,0,3,
+CUST_0651,28,Male,70085.0,40,Gold,576.35,7,Fashion,74,New York,None,5.0,0,3,Great service!
+CUST_0652,46,Other,54228.0,7,Silver,1039.25,127,Electronics,289,Houston,Monthly,5.0,0,9,Excellent quality!
+CUST_0653,73,Male,99676.0,38,Bronze,,92,Electronics,281,Houston,Monthly,3.0,0,8,Loved the experience!
+CUST_0654,53,Female,71875.0,85,Bronze,1373.5,103,Electronics,65,Miami,Yearly,3.0,0,6,Excellent quality!
+CUST_0655,42,Female,51655.0,61,Bronze,587.19,53,Fashion,124,Berlin,Monthly,5.0,0,1,Could be better.
+CUST_0656,38,Female,63472.0,84,Gold,410.91,132,Grocery,318,Houston,Monthly,4.0,0,2,Will not recommend.
+CUST_0657,74,Female,69437.0,3,Gold,537.76,108,Grocery,86,Berlin,Yearly,3.0,0,3,Excellent quality!
+CUST_0658,53,Female,69416.0,51,Silver,347.82,112,Electronics,40,Chicago,Monthly,4.0,0,3,Loved the experience!
+CUST_0659,27,Female,79711.0,86,Bronze,200.32,7,Fashion,185,Berlin,Monthly,5.0,0,9,Excellent quality!
+CUST_0660,54,Female,26816.0,47,Bronze,844.08,67,Electronics,353,Miami,Yearly,3.0,0,7,Loved the experience!
+CUST_0661,26,Female,97175.0,68,Silver,,108,Sports,334,London,Yearly,,0,9,
+CUST_0662,41,Male,,92,Silver,352.11,111,Grocery,265,London,None,,0,9,Excellent quality!
+CUST_0663,52,Male,132728.0,76,Gold,1099.18,148,Home & Living,270,Berlin,Yearly,3.0,0,5,
+CUST_0664,66,Female,66733.0,38,Platinum,,83,Electronics,41,London,Yearly,4.0,0,2,Could be better.
+CUST_0665,52,Female,148202.0,36,Bronze,137.12,124,Sports,92,London,None,4.0,0,10,Loved the experience!
+CUST_0666,65,Female,115028.0,41,Silver,641.6,139,Grocery,184,Los Angeles,None,,0,8,Excellent quality!
+CUST_0667,53,Female,136450.0,69,Silver,448.44,104,Fashion,214,Chicago,Monthly,4.0,0,9,Excellent quality!
+CUST_0668,35,Other,31240.0,13,Bronze,1035.46,67,Grocery,16,Miami,Monthly,3.0,0,7,
+CUST_0669,66,Male,118234.0,87,Bronze,213.71,7,Fashion,264,Miami,Yearly,3.0,1,8,Loved the experience!
+CUST_0670,56,Male,112493.0,58,Bronze,1506.02,110,Fashion,113,London,Yearly,4.0,0,4,Excellent quality!
+CUST_0671,49,Male,145149.0,50,Gold,1813.4,34,Electronics,291,New York,None,1.0,0,2,Will not recommend.
+CUST_0672,41,Male,118344.0,30,Silver,1489.44,106,Electronics,291,Miami,None,2.0,0,3,Could be better.
+CUST_0673,40,Female,91363.0,62,Silver,1070.33,147,Grocery,47,Chicago,Yearly,5.0,0,4,Great service!
+CUST_0674,49,Male,52762.0,25,Platinum,1722.73,58,Sports,306,Houston,None,2.0,0,8,Loved the experience!
+CUST_0675,54,Female,28259.0,27,Gold,1392.89,9,Grocery,96,Chicago,Yearly,5.0,0,8,
+CUST_0676,29,Male,70139.0,51,Bronze,31.0,48,Home & Living,94,London,Monthly,5.0,0,2,Great service!
+CUST_0677,66,Female,148775.0,78,Silver,794.24,115,Fashion,325,London,None,2.0,0,6,Could be better.
+CUST_0678,72,Female,34849.0,57,Silver,1703.39,41,Fashion,73,Los Angeles,Monthly,3.0,0,5,Could be better.
+CUST_0679,30,Male,101768.0,47,Gold,698.26,48,Electronics,335,Berlin,None,4.0,0,3,Great service!
+CUST_0680,40,Female,126108.0,100,Gold,80.08,25,Sports,67,Miami,None,1.0,0,4,Loved the experience!
+CUST_0681,42,Male,109709.0,39,Silver,1494.9,116,Electronics,245,Berlin,Yearly,1.0,0,9,Could be better.
+CUST_0682,52,Male,74869.0,16,Bronze,1606.06,78,Home & Living,76,Berlin,Yearly,1.0,0,1,Great service!
+CUST_0683,58,Male,146888.0,22,Gold,329.58,108,Grocery,207,Miami,Yearly,,0,10,Excellent quality!
+CUST_0684,47,Male,83095.0,85,Bronze,1079.31,25,Grocery,253,Miami,Yearly,2.0,1,6,
+CUST_0685,34,Male,137886.0,54,Bronze,391.99,147,Sports,220,London,Yearly,3.0,0,3,Will not recommend.
+CUST_0686,66,Female,,21,Bronze,1441.28,39,Electronics,261,Miami,Yearly,1.0,0,1,Great service!
+CUST_0687,37,Female,106710.0,72,Bronze,550.39,119,Electronics,330,New York,None,3.0,0,10,Loved the experience!
+CUST_0688,65,Female,43567.0,16,Bronze,639.27,79,Home & Living,343,New York,Yearly,1.0,0,5,Excellent quality!
+CUST_0689,42,Male,55292.0,59,Gold,1691.49,80,Grocery,258,Houston,Monthly,2.0,0,10,Will not recommend.
+CUST_0690,39,Female,94813.0,31,Platinum,957.88,27,Electronics,307,Miami,Yearly,4.0,0,1,Great service!
+CUST_0691,30,Male,117136.0,42,Bronze,1342.81,104,Sports,73,Los Angeles,None,4.0,0,9,Could be better.
+CUST_0692,36,Male,71631.0,74,Bronze,810.72,74,Grocery,124,Houston,Yearly,4.0,0,1,
+CUST_0693,66,Female,29885.0,32,Bronze,,68,Home & Living,187,London,Yearly,4.0,0,6,Loved the experience!
+CUST_0694,53,Male,79659.0,59,Bronze,1254.7,147,Sports,253,Miami,None,5.0,0,0,Loved the experience!
+CUST_0695,29,Female,74306.0,34,Bronze,318.17,28,Fashion,320,New York,Yearly,1.0,0,6,
+CUST_0696,58,Female,86314.0,9,Platinum,752.27,123,Home & Living,307,Los Angeles,Yearly,4.0,0,9,Excellent quality!
+CUST_0697,36,Male,85087.0,81,Bronze,425.98,138,Sports,234,Houston,None,5.0,0,4,Excellent quality!
+CUST_0698,29,Male,49165.0,11,Silver,1394.63,83,Electronics,249,Los Angeles,Monthly,5.0,1,0,Could be better.
+CUST_0699,26,Male,78929.0,96,Bronze,1888.98,30,Fashion,331,Miami,None,5.0,0,5,
+CUST_0700,24,Female,87028.0,10,Gold,1991.07,22,Home & Living,344,Chicago,Monthly,3.0,0,6,Excellent quality!
+CUST_0701,45,Male,115998.0,86,Gold,906.05,3,Electronics,71,Los Angeles,Monthly,3.0,0,0,Excellent quality!
+CUST_0702,31,Male,69812.0,17,Platinum,512.54,101,Fashion,234,Los Angeles,None,5.0,0,8,Excellent quality!
+CUST_0703,48,Male,70500.0,68,Gold,891.23,105,Grocery,323,London,Monthly,4.0,0,6,Excellent quality!
+CUST_0704,69,Female,99151.0,48,Bronze,1696.07,2,Electronics,155,New York,None,,0,0,Will not recommend.
+CUST_0705,36,Male,78643.0,52,Bronze,419.95,54,Sports,114,Miami,None,2.0,0,2,Loved the experience!
+CUST_0706,64,Male,64900.0,25,Silver,1904.67,6,Home & Living,312,Los Angeles,None,3.0,0,4,Excellent quality!
+CUST_0707,33,Female,62946.0,21,Bronze,690.31,107,Fashion,227,Miami,None,4.0,0,3,Will not recommend.
+CUST_0708,70,Female,27851.0,65,Silver,,123,Electronics,321,New York,Monthly,4.0,0,1,Could be better.
+CUST_0709,22,Male,36288.0,63,Bronze,1678.83,2,Grocery,345,London,None,2.0,0,0,Will not recommend.
+CUST_0710,52,Male,92692.0,89,Bronze,1619.06,111,Home & Living,244,Miami,Monthly,2.0,0,3,Excellent quality!
+CUST_0711,29,Male,87580.0,51,Silver,642.63,2,Home & Living,305,Berlin,Yearly,4.0,0,6,Great service!
+CUST_0712,42,Female,27368.0,36,Silver,27.47,93,Electronics,13,New York,None,,0,10,Excellent quality!
+CUST_0713,69,Male,105436.0,81,Gold,770.44,101,Grocery,15,New York,Yearly,4.0,0,3,Could be better.
+CUST_0714,38,Female,116136.0,88,Bronze,610.6,97,Fashion,41,Houston,Yearly,2.0,0,8,Great service!
+CUST_0715,53,Female,66403.0,66,Silver,,111,Electronics,109,London,Yearly,2.0,0,7,Could be better.
+CUST_0716,70,Female,111170.0,15,Bronze,1015.68,6,Fashion,277,London,Yearly,4.0,0,7,Will not recommend.
+CUST_0717,40,Male,29168.0,96,Bronze,812.03,127,Home & Living,323,Berlin,None,5.0,0,4,Loved the experience!
+CUST_0718,33,Female,106497.0,39,Silver,1272.77,104,Fashion,18,Miami,Monthly,4.0,0,0,Loved the experience!
+CUST_0719,74,Female,69879.0,70,Bronze,1246.16,147,Grocery,65,Chicago,Yearly,1.0,0,8,Great service!
+CUST_0720,56,Female,79871.0,1,Bronze,250.29,1,Sports,166,Berlin,None,2.0,0,1,
+CUST_0721,62,Male,129632.0,23,Bronze,1954.16,33,Grocery,72,Houston,Yearly,3.0,0,5,Great service!
+CUST_0722,70,Other,131623.0,39,Bronze,381.99,40,Fashion,309,London,Monthly,2.0,1,9,Excellent quality!
+CUST_0723,59,Male,109388.0,57,Bronze,896.1,32,Electronics,111,New York,Yearly,1.0,0,4,Loved the experience!
+CUST_0724,56,Male,118646.0,81,Bronze,981.35,17,Home & Living,273,London,Yearly,3.0,0,9,Could be better.
+CUST_0725,31,Male,52174.0,34,Bronze,1627.99,126,Sports,84,Berlin,Monthly,3.0,0,7,Loved the experience!
+CUST_0726,48,Female,119751.0,41,Bronze,207.47,8,Electronics,138,Chicago,None,4.0,0,10,Excellent quality!
+CUST_0727,22,Male,112491.0,93,Silver,863.0,57,Electronics,38,Los Angeles,Yearly,5.0,0,2,Excellent quality!
+CUST_0728,52,Male,26581.0,73,Bronze,1260.72,42,Grocery,104,Los Angeles,None,4.0,0,5,Excellent quality!
+CUST_0729,40,Male,130155.0,13,Bronze,438.16,98,Fashion,323,London,None,3.0,0,5,Great service!
+CUST_0730,46,Male,91853.0,70,Bronze,1258.66,137,Grocery,280,London,Yearly,3.0,0,9,Excellent quality!
+CUST_0731,60,Female,,6,Silver,1848.09,120,Fashion,122,Houston,Monthly,5.0,0,2,Will not recommend.
+CUST_0732,28,Female,69678.0,84,Gold,1995.06,87,Grocery,217,London,Yearly,,0,6,Great service!
+CUST_0733,35,Male,128392.0,52,Gold,74.58,54,Electronics,60,Chicago,Monthly,5.0,0,10,Loved the experience!
+CUST_0734,64,Male,131250.0,3,Gold,478.82,84,Home & Living,99,London,None,4.0,0,3,Loved the experience!
+CUST_0735,29,Female,46649.0,81,Silver,627.51,25,Fashion,306,Miami,Monthly,,0,4,Loved the experience!
+CUST_0736,26,Male,147795.0,63,Silver,804.26,67,Sports,353,Berlin,Monthly,4.0,0,8,Excellent quality!
+CUST_0737,27,Male,108668.0,49,Silver,492.09,46,Sports,203,Chicago,Yearly,5.0,0,5,Loved the experience!
+CUST_0738,61,Other,102325.0,76,Bronze,414.94,22,Electronics,257,Houston,Monthly,2.0,0,9,Loved the experience!
+CUST_0739,34,Female,34567.0,47,Bronze,1909.56,139,Grocery,4,Miami,Monthly,5.0,0,3,Great service!
+CUST_0740,55,Male,100404.0,55,Bronze,1837.86,8,Grocery,196,Miami,Yearly,1.0,0,7,Excellent quality!
+CUST_0741,24,Female,109906.0,64,Platinum,103.52,39,Electronics,179,Berlin,Monthly,3.0,0,8,Could be better.
+CUST_0742,63,Male,128069.0,65,Silver,684.24,49,Sports,341,Los Angeles,Monthly,2.0,1,9,Loved the experience!
+CUST_0743,30,Female,,81,Gold,816.25,46,Sports,132,Chicago,Yearly,3.0,0,4,Excellent quality!
+CUST_0744,57,Male,81944.0,67,Bronze,485.64,38,Grocery,323,Berlin,None,1.0,0,1,Could be better.
+CUST_0745,59,Male,138428.0,90,Silver,1261.46,136,Fashion,252,Miami,Yearly,2.0,0,5,Loved the experience!
+CUST_0746,26,Male,98002.0,15,Bronze,,54,Home & Living,264,Houston,Yearly,3.0,0,10,Could be better.
+CUST_0747,67,Female,48803.0,100,Bronze,1702.5,92,Fashion,92,Berlin,Yearly,3.0,0,7,Could be better.
+CUST_0748,44,Female,38230.0,32,Gold,1484.33,40,Sports,149,Los Angeles,Yearly,,0,4,Excellent quality!
+CUST_0749,19,Male,37862.0,96,Silver,1089.72,34,Fashion,137,Miami,None,3.0,0,0,Will not recommend.
+CUST_0750,22,Male,63355.0,68,Bronze,1310.64,96,Home & Living,207,Berlin,Monthly,3.0,0,7,Great service!
+CUST_0751,46,Female,51259.0,18,Gold,555.24,79,Fashion,124,Chicago,Yearly,2.0,0,8,Great service!
+CUST_0752,54,Male,119075.0,83,Bronze,1190.18,127,Fashion,233,Los Angeles,None,3.0,0,0,Could be better.
+CUST_0753,55,Male,107445.0,43,Platinum,983.56,17,Fashion,60,Chicago,None,3.0,0,7,Excellent quality!
+CUST_0754,36,Other,50795.0,35,Bronze,275.36,110,Fashion,306,Chicago,Monthly,4.0,0,9,Loved the experience!
+CUST_0755,25,Male,134604.0,78,Bronze,492.66,52,Electronics,265,Chicago,Monthly,4.0,0,1,Great service!
+CUST_0756,65,Female,,58,Bronze,590.47,118,Sports,133,Berlin,None,1.0,0,3,Excellent quality!
+CUST_0757,62,Other,31093.0,33,Bronze,1849.38,9,Home & Living,317,Los Angeles,Monthly,4.0,0,1,Excellent quality!
+CUST_0758,18,Male,66571.0,14,Bronze,468.47,33,Sports,112,Berlin,None,4.0,0,1,Excellent quality!
+CUST_0759,39,Male,20193.0,34,Silver,585.6,113,Electronics,190,Berlin,None,1.0,0,9,Could be better.
+CUST_0760,69,Male,120311.0,61,Gold,745.01,149,Electronics,186,Berlin,None,3.0,0,2,Excellent quality!
+CUST_0761,34,Female,37569.0,4,Gold,1330.85,85,Electronics,318,Miami,Monthly,3.0,0,7,Great service!
+CUST_0762,24,Female,137082.0,88,Bronze,245.29,10,Electronics,88,London,None,4.0,0,3,Great service!
+CUST_0763,42,Female,,59,Silver,1908.35,6,Fashion,186,New York,Yearly,1.0,0,6,Great service!
+CUST_0764,62,Male,82824.0,29,Bronze,1732.49,115,Sports,306,Miami,None,3.0,0,9,Excellent quality!
+CUST_0765,21,Female,62752.0,83,Bronze,1158.66,121,Grocery,131,Los Angeles,Monthly,5.0,0,2,Great service!
+CUST_0766,53,Female,52327.0,6,Silver,1351.34,141,Home & Living,359,New York,Monthly,2.0,0,9,Loved the experience!
+CUST_0767,23,Female,62070.0,97,Silver,43.15,65,Electronics,122,New York,Yearly,2.0,0,10,Loved the experience!
+CUST_0768,48,Female,105925.0,49,Bronze,684.5,20,Sports,47,New York,Monthly,2.0,0,2,Loved the experience!
+CUST_0769,36,Female,60197.0,40,Bronze,1593.36,57,Electronics,287,London,Yearly,4.0,0,1,Excellent quality!
+CUST_0770,61,Female,22261.0,83,Platinum,164.19,46,Electronics,178,Berlin,None,2.0,0,5,Great service!
+CUST_0771,71,Female,138424.0,65,Bronze,571.8,136,Electronics,179,Houston,Yearly,2.0,0,5,Loved the experience!
+CUST_0772,56,Male,113905.0,69,Silver,1174.74,10,Electronics,98,Los Angeles,None,5.0,0,0,Excellent quality!
+CUST_0773,44,Male,46512.0,27,Silver,520.26,113,Electronics,329,London,Monthly,3.0,0,6,Great service!
+CUST_0774,27,Female,26716.0,80,Bronze,1868.62,139,Home & Living,33,London,Monthly,5.0,0,3,Excellent quality!
+CUST_0775,43,Male,106795.0,6,Bronze,270.81,12,Sports,69,Houston,Monthly,4.0,0,10,Excellent quality!
+CUST_0776,36,Female,,13,Bronze,1596.81,138,Electronics,170,New York,Yearly,2.0,0,2,
+CUST_0777,56,Other,127225.0,64,Gold,1020.82,11,Electronics,271,Berlin,None,3.0,1,7,Excellent quality!
+CUST_0778,20,Female,24378.0,62,Silver,1503.16,118,Electronics,58,Houston,Monthly,2.0,0,1,Loved the experience!
+CUST_0779,62,Male,60583.0,99,Silver,628.32,39,Electronics,180,Houston,Yearly,2.0,0,8,Could be better.
+CUST_0780,30,Male,,19,Platinum,1033.83,53,Fashion,18,London,Yearly,4.0,0,7,Great service!
+CUST_0781,67,Male,105371.0,76,Gold,1715.1,56,Fashion,225,Los Angeles,None,2.0,0,7,Will not recommend.
+CUST_0782,45,Female,49033.0,80,Silver,939.09,104,Grocery,94,Chicago,Monthly,1.0,0,2,Great service!
+CUST_0783,37,Female,44000.0,43,Silver,725.84,129,Electronics,296,Berlin,Monthly,3.0,0,3,Loved the experience!
+CUST_0784,45,Female,131032.0,74,Silver,1076.95,56,Grocery,80,Houston,Monthly,3.0,0,1,Excellent quality!
+CUST_0785,25,Male,95868.0,89,Silver,1437.55,118,Home & Living,174,Berlin,Yearly,1.0,0,1,Loved the experience!
+CUST_0786,58,Female,62604.0,20,Silver,892.69,132,Grocery,221,Houston,Monthly,4.0,0,3,Could be better.
+CUST_0787,56,Female,88336.0,95,Silver,1878.37,30,Sports,102,New York,None,2.0,0,5,Loved the experience!
+CUST_0788,18,Male,,68,Bronze,596.94,12,Fashion,53,Berlin,Yearly,2.0,0,4,Loved the experience!
+CUST_0789,20,Female,115655.0,44,Silver,956.17,35,Fashion,182,New York,Yearly,3.0,1,0,
+CUST_0790,30,Male,93869.0,23,Bronze,1516.29,77,Electronics,350,London,Yearly,4.0,0,9,Will not recommend.
+CUST_0791,45,Male,25410.0,2,Bronze,1381.35,102,Electronics,317,New York,Monthly,4.0,0,0,Could be better.
+CUST_0792,74,Female,103375.0,22,Bronze,1728.65,87,Home & Living,354,Berlin,Yearly,4.0,0,5,Loved the experience!
+CUST_0793,66,Male,76044.0,57,Silver,,52,Home & Living,348,Miami,None,2.0,0,2,Great service!
+CUST_0794,42,Female,83315.0,72,Silver,859.45,80,Sports,320,Berlin,None,4.0,0,2,Loved the experience!
+CUST_0795,73,Female,,7,Bronze,,135,Electronics,67,Houston,None,1.0,0,6,Excellent quality!
+CUST_0796,50,Female,91344.0,78,Silver,70.53,22,Electronics,27,New York,None,5.0,0,0,Great service!
+CUST_0797,55,Male,26796.0,56,Silver,1456.49,75,Home & Living,273,Los Angeles,Monthly,4.0,0,0,Great service!
+CUST_0798,70,Female,106716.0,67,Bronze,1749.29,58,Home & Living,281,Miami,Monthly,,1,9,Great service!
+CUST_0799,23,Female,74245.0,16,Silver,449.22,93,Home & Living,359,London,Monthly,2.0,0,2,Excellent quality!
+CUST_0800,61,Female,63056.0,83,Gold,325.31,103,Fashion,310,Chicago,Yearly,4.0,0,7,Excellent quality!
+CUST_0801,62,Male,37709.0,51,Gold,133.79,140,Grocery,118,Houston,Monthly,3.0,0,0,Could be better.
+CUST_0802,49,Male,139664.0,82,Silver,1647.18,7,Grocery,133,Houston,Yearly,2.0,1,9,Loved the experience!
+CUST_0803,62,Female,78557.0,80,Silver,629.65,128,Electronics,128,Los Angeles,Yearly,,0,3,Excellent quality!
+CUST_0804,64,Male,37543.0,72,Bronze,809.38,55,Fashion,7,Chicago,None,1.0,0,8,Excellent quality!
+CUST_0805,38,Female,57418.0,97,Bronze,1010.47,106,Home & Living,50,Chicago,None,5.0,0,3,Excellent quality!
+CUST_0806,33,Female,114611.0,12,Bronze,1680.51,62,Electronics,340,London,None,,0,9,Excellent quality!
+CUST_0807,71,Female,123291.0,53,Platinum,1305.16,90,Fashion,280,London,Monthly,3.0,0,7,Could be better.
+CUST_0808,38,Female,133504.0,75,Bronze,1233.98,98,Sports,174,Miami,Monthly,3.0,0,6,Loved the experience!
+CUST_0809,28,Female,,5,Bronze,359.59,77,Fashion,182,Houston,Yearly,1.0,0,2,Excellent quality!
+CUST_0810,54,Female,116038.0,27,Gold,1031.25,119,Electronics,191,New York,Monthly,4.0,0,6,
+CUST_0811,53,Female,36724.0,12,Platinum,1433.61,36,Grocery,248,London,Monthly,1.0,0,6,Great service!
+CUST_0812,52,Female,23828.0,17,Gold,1946.79,89,Home & Living,234,Los Angeles,Yearly,1.0,0,9,Great service!
+CUST_0813,36,Male,136656.0,6,Bronze,410.8,145,Sports,82,Los Angeles,Monthly,3.0,0,2,
+CUST_0814,37,Male,37087.0,97,Bronze,28.99,130,Fashion,92,Los Angeles,Yearly,5.0,0,1,Will not recommend.
+CUST_0815,74,Female,32605.0,5,Bronze,159.85,141,Electronics,311,Berlin,Yearly,3.0,0,8,Excellent quality!
+CUST_0816,35,Male,51337.0,57,Bronze,757.95,93,Electronics,267,London,Yearly,3.0,0,0,Loved the experience!
+CUST_0817,64,Male,25482.0,28,Bronze,1642.88,114,Home & Living,119,London,Yearly,3.0,0,6,Great service!
+CUST_0818,58,Male,85333.0,78,Silver,,28,Electronics,70,Los Angeles,Yearly,1.0,0,3,Great service!
+CUST_0819,66,Female,112541.0,69,Platinum,918.89,143,Electronics,16,London,Monthly,4.0,0,1,Great service!
+CUST_0820,31,Female,108296.0,59,Bronze,665.17,33,Home & Living,252,Berlin,Monthly,1.0,0,1,Will not recommend.
+CUST_0821,32,Female,70952.0,33,Silver,114.44,20,Sports,121,New York,Yearly,2.0,0,7,Loved the experience!
+CUST_0822,48,Female,25463.0,62,Silver,905.97,140,Grocery,9,New York,None,3.0,0,6,Excellent quality!
+CUST_0823,18,Female,132164.0,50,Bronze,516.95,101,Grocery,286,Miami,None,3.0,0,6,
+CUST_0824,70,Male,90448.0,19,Silver,710.25,23,Fashion,315,Houston,Yearly,2.0,0,4,Loved the experience!
+CUST_0825,71,Female,,86,Bronze,1414.17,112,Sports,325,New York,Monthly,3.0,0,9,Could be better.
+CUST_0826,71,Male,53623.0,69,Bronze,1047.89,14,Fashion,272,Miami,Yearly,3.0,0,7,Could be better.
+CUST_0827,20,Female,79156.0,66,Gold,258.05,91,Grocery,305,Chicago,Yearly,3.0,0,1,Could be better.
+CUST_0828,33,Female,55634.0,94,Bronze,1923.21,77,Home & Living,292,Houston,Yearly,2.0,0,1,Could be better.
+CUST_0829,40,Male,64602.0,47,Platinum,1275.46,85,Electronics,209,New York,Yearly,1.0,0,4,Great service!
+CUST_0830,74,Male,134598.0,39,Bronze,1534.08,109,Grocery,217,Berlin,Yearly,3.0,0,0,Great service!
+CUST_0831,28,Male,69334.0,68,Silver,167.63,31,Sports,240,Chicago,Yearly,4.0,0,5,Great service!
+CUST_0832,29,Male,88648.0,33,Silver,103.65,122,Grocery,199,Miami,None,2.0,0,3,Great service!
+CUST_0833,27,Male,42054.0,13,Bronze,48.7,107,Sports,215,New York,Monthly,5.0,0,5,Excellent quality!
+CUST_0834,49,Female,90028.0,84,Bronze,385.7,54,Sports,204,New York,None,2.0,0,6,Will not recommend.
+CUST_0835,33,Female,42207.0,54,Silver,834.67,133,Sports,215,London,Monthly,1.0,0,2,Excellent quality!
+CUST_0836,25,Female,100650.0,7,Gold,,141,Fashion,79,Chicago,Monthly,2.0,0,10,
+CUST_0837,55,Female,119821.0,79,Gold,919.55,43,Home & Living,266,New York,None,5.0,0,7,
+CUST_0838,29,Female,101554.0,87,Silver,587.61,89,Grocery,34,Los Angeles,None,4.0,0,6,
+CUST_0839,41,Female,41386.0,14,Gold,1128.25,115,Home & Living,288,Berlin,Monthly,5.0,0,0,Will not recommend.
+CUST_0840,45,Male,103276.0,87,Silver,232.75,99,Electronics,17,London,Yearly,2.0,0,5,Could be better.
+CUST_0841,70,Female,79518.0,19,Gold,1222.92,47,Grocery,164,London,Monthly,5.0,0,6,Great service!
+CUST_0842,25,Male,72781.0,54,Silver,1141.18,71,Home & Living,12,New York,Yearly,2.0,0,10,Excellent quality!
+CUST_0843,45,Other,72780.0,93,Silver,1586.07,67,Home & Living,201,Berlin,None,4.0,0,3,Excellent quality!
+CUST_0844,53,Female,81440.0,20,Gold,,62,Electronics,228,London,None,4.0,0,1,Excellent quality!
+CUST_0845,43,Female,64199.0,29,Bronze,509.24,109,Sports,345,Houston,Yearly,1.0,0,9,Loved the experience!
+CUST_0846,25,Male,81035.0,24,Gold,1024.22,37,Grocery,0,Chicago,Yearly,4.0,0,8,Excellent quality!
+CUST_0847,67,Female,28210.0,82,Silver,1818.64,119,Grocery,318,Houston,Yearly,3.0,0,6,Great service!
+CUST_0848,45,Female,,63,Bronze,1572.53,86,Electronics,216,Miami,Yearly,5.0,1,0,Great service!
+CUST_0849,45,Male,131175.0,74,Bronze,979.94,126,Sports,33,Houston,None,5.0,0,7,Excellent quality!
+CUST_0850,54,Male,98279.0,57,Bronze,,136,Grocery,358,Berlin,None,2.0,0,2,Loved the experience!
+CUST_0851,58,Female,,8,Silver,123.9,52,Grocery,265,Los Angeles,Yearly,4.0,0,3,
+CUST_0852,53,Male,75284.0,90,Gold,1862.69,91,Grocery,127,London,Yearly,1.0,0,4,Great service!
+CUST_0853,44,Female,127628.0,62,Bronze,110.51,33,Sports,211,Berlin,Monthly,1.0,0,0,Excellent quality!
+CUST_0854,71,Male,129835.0,29,Gold,1099.14,81,Electronics,262,London,Monthly,,0,5,Loved the experience!
+CUST_0855,34,Male,92124.0,74,Gold,1781.98,42,Grocery,311,Los Angeles,None,3.0,0,9,Excellent quality!
+CUST_0856,26,Female,88847.0,17,Bronze,532.81,112,Home & Living,79,London,Yearly,4.0,0,5,Excellent quality!
+CUST_0857,50,Male,42432.0,66,Gold,,126,Sports,164,Houston,Yearly,1.0,0,1,
+CUST_0858,70,Female,146252.0,6,Platinum,655.41,136,Fashion,251,Miami,Yearly,3.0,0,10,Will not recommend.
+CUST_0859,37,Male,84089.0,58,Gold,1904.77,106,Electronics,11,New York,None,5.0,0,9,
+CUST_0860,30,Male,,69,Gold,1649.05,125,Home & Living,303,Los Angeles,Monthly,2.0,0,5,Great service!
+CUST_0861,45,Female,119291.0,28,Platinum,1420.91,113,Grocery,211,Houston,None,4.0,0,7,Great service!
+CUST_0862,65,Female,23321.0,62,Silver,1179.38,64,Fashion,281,Berlin,None,4.0,0,5,Loved the experience!
+CUST_0863,46,Female,101348.0,41,Bronze,1642.98,123,Electronics,111,Houston,None,5.0,0,3,Excellent quality!
+CUST_0864,30,Female,57383.0,69,Gold,790.61,114,Sports,210,Houston,Yearly,4.0,0,3,Loved the experience!
+CUST_0865,63,Female,133816.0,82,Silver,900.63,20,Fashion,238,New York,Monthly,4.0,0,8,Excellent quality!
+CUST_0866,52,Male,98682.0,90,Silver,1462.7,16,Fashion,267,Chicago,Yearly,4.0,0,5,Excellent quality!
+CUST_0867,23,Male,143053.0,84,Bronze,721.93,145,Home & Living,297,London,Yearly,4.0,0,7,Will not recommend.
+CUST_0868,35,Female,99190.0,41,Gold,137.16,19,Electronics,316,London,Monthly,3.0,0,7,
+CUST_0869,68,Female,72893.0,49,Bronze,157.93,120,Home & Living,57,Berlin,Yearly,3.0,0,6,Great service!
+CUST_0870,22,Female,55820.0,91,Platinum,239.57,136,Home & Living,33,Miami,Yearly,2.0,0,2,Excellent quality!
+CUST_0871,64,Male,141262.0,49,Bronze,1740.67,38,Grocery,262,Berlin,None,4.0,0,9,Loved the experience!
+CUST_0872,42,Male,86262.0,76,Bronze,949.73,93,Sports,364,Chicago,Monthly,5.0,0,0,Could be better.
+CUST_0873,19,Female,23760.0,71,Silver,1428.64,105,Fashion,34,London,Yearly,1.0,0,4,Loved the experience!
+CUST_0874,27,Female,42190.0,3,Bronze,791.89,100,Electronics,270,Miami,None,2.0,0,9,Great service!
+CUST_0875,73,Female,87411.0,10,Silver,524.83,90,Sports,226,Berlin,None,1.0,0,9,Loved the experience!
+CUST_0876,47,Female,43377.0,98,Platinum,700.91,44,Sports,24,Miami,None,1.0,0,1,Great service!
+CUST_0877,67,Female,66737.0,89,Gold,1590.42,76,Electronics,233,Houston,None,4.0,0,9,Will not recommend.
+CUST_0878,62,Male,89569.0,35,Bronze,1254.18,145,Sports,58,Los Angeles,None,5.0,0,1,Great service!
+CUST_0879,22,Male,58211.0,80,Bronze,1875.9,79,Grocery,250,Houston,Yearly,,0,6,Loved the experience!
+CUST_0880,72,Male,102909.0,2,Gold,1362.61,73,Sports,334,New York,Yearly,1.0,0,10,Excellent quality!
+CUST_0881,73,Male,23744.0,24,Platinum,1144.66,140,Grocery,85,London,Monthly,2.0,0,2,Could be better.
+CUST_0882,50,Female,145566.0,74,Silver,1224.29,96,Fashion,250,Miami,Monthly,5.0,0,7,Excellent quality!
+CUST_0883,71,Male,44995.0,38,Silver,1885.32,89,Fashion,179,Berlin,Monthly,5.0,0,8,Could be better.
+CUST_0884,18,Female,36977.0,22,Bronze,1578.52,103,Home & Living,206,Los Angeles,Monthly,1.0,0,7,Excellent quality!
+CUST_0885,35,Male,149508.0,26,Gold,57.84,146,Grocery,343,Berlin,Monthly,5.0,0,5,Excellent quality!
+CUST_0886,49,Male,117938.0,43,Silver,1072.94,6,Fashion,148,London,Monthly,2.0,0,4,Loved the experience!
+CUST_0887,64,Male,54542.0,55,Bronze,1379.79,122,Sports,70,Miami,Monthly,2.0,1,2,Excellent quality!
+CUST_0888,66,Male,30651.0,39,Bronze,1499.91,116,Electronics,120,Miami,None,2.0,1,2,Great service!
+CUST_0889,28,Female,119239.0,91,Gold,434.15,62,Electronics,252,Houston,Monthly,4.0,0,6,Excellent quality!
+CUST_0890,38,Male,98931.0,29,Bronze,1735.68,144,Grocery,92,Los Angeles,None,1.0,0,4,Excellent quality!
+CUST_0891,43,Female,115344.0,20,Bronze,1912.13,136,Home & Living,255,Los Angeles,Monthly,5.0,0,5,Will not recommend.
+CUST_0892,42,Male,122112.0,91,Silver,481.06,89,Sports,253,London,None,2.0,0,5,Excellent quality!
+CUST_0893,39,Male,36715.0,41,Bronze,1766.4,96,Grocery,351,Miami,None,1.0,0,8,Great service!
+CUST_0894,44,Male,64409.0,54,Bronze,202.99,126,Electronics,287,Los Angeles,Yearly,1.0,0,0,Will not recommend.
+CUST_0895,66,Female,44306.0,20,Gold,,90,Grocery,308,Los Angeles,Yearly,4.0,0,7,Great service!
+CUST_0896,30,Female,,19,Gold,267.16,86,Sports,58,Berlin,Monthly,5.0,0,9,Excellent quality!
+CUST_0897,50,Male,34376.0,84,Gold,124.9,138,Fashion,68,London,None,5.0,0,4,Excellent quality!
+CUST_0898,51,Male,81350.0,99,Gold,1691.57,121,Sports,85,Houston,None,2.0,0,5,Excellent quality!
+CUST_0899,58,Female,,66,Silver,127.51,76,Fashion,273,Berlin,None,2.0,0,5,Great service!
+CUST_0900,52,Male,123358.0,30,Gold,550.61,92,Fashion,226,Berlin,Yearly,1.0,0,0,Could be better.
+CUST_0901,18,Male,56636.0,53,Bronze,216.48,70,Fashion,80,Chicago,Yearly,5.0,0,2,Excellent quality!
+CUST_0902,38,Female,106120.0,34,Silver,597.89,148,Grocery,113,New York,None,5.0,0,5,Great service!
+CUST_0903,65,Female,134889.0,22,Platinum,190.21,133,Electronics,183,Chicago,Monthly,2.0,0,10,Could be better.
+CUST_0904,72,Male,71649.0,67,Bronze,1339.33,23,Grocery,279,Los Angeles,Yearly,3.0,0,10,Great service!
+CUST_0905,23,Female,54610.0,6,Bronze,275.32,137,Electronics,321,Miami,Monthly,,0,8,Great service!
+CUST_0906,45,Female,30058.0,79,Silver,,58,Sports,317,New York,None,5.0,1,5,Loved the experience!
+CUST_0907,34,Male,144876.0,27,Bronze,1636.21,46,Home & Living,53,New York,Monthly,4.0,0,5,Excellent quality!
+CUST_0908,22,Female,148265.0,10,Bronze,37.19,22,Sports,196,Miami,Monthly,4.0,0,0,Great service!
+CUST_0909,48,Female,94637.0,73,Gold,,8,Grocery,292,New York,Yearly,3.0,0,8,Great service!
+CUST_0910,22,Male,98033.0,97,Platinum,67.6,123,Grocery,292,Miami,None,2.0,0,3,Will not recommend.
+CUST_0911,55,Male,90194.0,96,Silver,486.9,20,Electronics,290,New York,Yearly,2.0,0,1,Will not recommend.
+CUST_0912,20,Male,96917.0,48,Bronze,74.45,78,Grocery,179,Berlin,Monthly,2.0,0,0,Will not recommend.
+CUST_0913,70,Female,84200.0,70,Bronze,678.33,39,Fashion,221,London,Monthly,4.0,0,2,Loved the experience!
+CUST_0914,40,Male,125848.0,59,Gold,1032.59,37,Grocery,273,London,None,2.0,1,2,Excellent quality!
+CUST_0915,54,Female,126022.0,100,Silver,1595.32,75,Electronics,243,Chicago,None,,0,4,Loved the experience!
+CUST_0916,70,Female,66619.0,59,Bronze,682.58,118,Electronics,153,Berlin,None,3.0,0,0,Excellent quality!
+CUST_0917,54,Male,37154.0,2,Silver,1413.93,104,Fashion,303,New York,Yearly,1.0,0,6,Excellent quality!
+CUST_0918,27,Female,,29,Bronze,383.13,31,Electronics,272,Houston,None,5.0,0,0,Great service!
+CUST_0919,27,Male,145381.0,68,Silver,1503.69,123,Home & Living,134,Miami,Yearly,3.0,0,3,Great service!
+CUST_0920,36,Female,80058.0,65,Gold,479.63,54,Sports,312,Berlin,Yearly,4.0,0,5,Excellent quality!
+CUST_0921,34,Female,82068.0,83,Silver,295.65,34,Grocery,7,New York,Yearly,3.0,0,0,Great service!
+CUST_0922,38,Male,97313.0,26,Silver,378.96,122,Home & Living,127,London,Yearly,5.0,0,6,Great service!
+CUST_0923,31,Male,119932.0,89,Bronze,372.31,113,Grocery,55,London,None,1.0,0,9,Great service!
+CUST_0924,26,Male,50373.0,10,Gold,1030.6,62,Home & Living,125,Miami,Yearly,5.0,1,6,Could be better.
+CUST_0925,63,Male,53154.0,53,Silver,1691.15,23,Grocery,158,Houston,Yearly,4.0,0,2,Could be better.
+CUST_0926,18,Male,26031.0,79,Bronze,168.41,46,Fashion,58,New York,Monthly,5.0,0,3,
+CUST_0927,68,Male,113533.0,59,Silver,1416.84,56,Electronics,57,New York,Monthly,3.0,0,5,Excellent quality!
+CUST_0928,62,Other,91975.0,22,Bronze,,135,Electronics,139,Houston,Yearly,2.0,0,10,Loved the experience!
+CUST_0929,30,Male,42785.0,51,Gold,1746.31,118,Fashion,175,Houston,Monthly,3.0,0,6,Loved the experience!
+CUST_0930,21,Male,98928.0,48,Silver,495.85,131,Home & Living,107,Houston,Monthly,4.0,0,3,Will not recommend.
+CUST_0931,18,Female,138696.0,21,Platinum,905.72,113,Sports,210,London,Yearly,1.0,0,9,Great service!
+CUST_0932,66,Male,48669.0,22,Bronze,1852.4,44,Home & Living,73,Miami,Yearly,5.0,0,10,Great service!
+CUST_0933,57,Other,114475.0,100,Gold,1323.39,128,Electronics,166,Berlin,None,1.0,0,8,Great service!
+CUST_0934,49,Female,137154.0,98,Silver,783.65,108,Sports,356,Houston,Yearly,4.0,0,8,Great service!
+CUST_0935,51,Female,22282.0,30,Gold,271.51,17,Grocery,303,Miami,None,5.0,1,8,Will not recommend.
+CUST_0936,45,Male,54624.0,25,Bronze,532.35,59,Sports,232,Chicago,None,3.0,0,9,Loved the experience!
+CUST_0937,48,Male,68438.0,28,Silver,1166.62,138,Home & Living,326,New York,None,3.0,0,5,
+CUST_0938,25,Male,109900.0,65,Gold,1439.15,99,Fashion,181,New York,Yearly,4.0,0,1,Could be better.
+CUST_0939,56,Female,87534.0,45,Bronze,257.6,84,Grocery,121,Los Angeles,Yearly,5.0,0,1,
+CUST_0940,43,Male,,68,Bronze,1203.2,146,Home & Living,333,Chicago,None,3.0,0,10,Loved the experience!
+CUST_0941,51,Male,58244.0,7,Silver,1105.2,45,Grocery,202,Berlin,Monthly,4.0,0,3,Loved the experience!
+CUST_0942,71,Other,94964.0,49,Silver,1032.77,108,Sports,28,Houston,Monthly,4.0,0,8,Loved the experience!
+CUST_0943,71,Male,57437.0,9,Bronze,1383.35,62,Electronics,201,Houston,Yearly,1.0,0,2,Great service!
+CUST_0944,20,Male,97872.0,36,Bronze,1676.52,59,Home & Living,92,Berlin,Monthly,3.0,0,5,Great service!
+CUST_0945,67,Male,94878.0,83,Bronze,,138,Fashion,328,London,None,5.0,0,1,
+CUST_0946,29,Other,139006.0,1,Gold,1779.13,11,Sports,355,Chicago,Yearly,3.0,0,0,
+CUST_0947,18,Male,125368.0,10,Silver,329.66,102,Home & Living,175,Houston,Yearly,3.0,0,4,Great service!
+CUST_0948,71,Female,92982.0,36,Gold,354.32,70,Fashion,329,Los Angeles,Yearly,3.0,0,7,Great service!
+CUST_0949,61,Female,70583.0,73,Platinum,540.88,123,Home & Living,210,Miami,Yearly,4.0,0,9,Loved the experience!
+CUST_0950,22,Male,58392.0,46,Silver,247.87,34,Sports,183,New York,Monthly,2.0,0,9,Great service!
+CUST_0951,47,Female,27461.0,32,Bronze,468.34,101,Home & Living,94,Chicago,Yearly,,0,1,Loved the experience!
+CUST_0952,47,Male,120123.0,32,Bronze,221.76,145,Grocery,272,New York,None,1.0,0,9,Great service!
+CUST_0953,74,Male,30516.0,6,Bronze,1645.29,104,Sports,136,Miami,Yearly,3.0,0,8,Loved the experience!
+CUST_0954,34,Female,99285.0,48,Platinum,286.55,40,Home & Living,236,Chicago,None,2.0,0,7,Will not recommend.
+CUST_0955,65,Female,,38,Silver,1497.12,19,Electronics,352,Miami,Monthly,,0,2,Loved the experience!
+CUST_0956,64,Female,148657.0,17,Bronze,105.35,67,Home & Living,264,Houston,Monthly,4.0,1,0,Great service!
+CUST_0957,40,Female,141251.0,74,Bronze,1897.56,82,Grocery,134,Berlin,Monthly,3.0,0,3,Loved the experience!
+CUST_0958,32,Male,120962.0,27,Silver,1425.21,64,Fashion,143,Houston,Yearly,5.0,0,7,
+CUST_0959,54,Male,56268.0,54,Silver,23.53,83,Fashion,18,Berlin,None,4.0,0,2,Loved the experience!
+CUST_0960,38,Male,110486.0,50,Bronze,1530.07,47,Fashion,230,Houston,None,1.0,0,9,Excellent quality!
+CUST_0961,31,Male,120424.0,35,Platinum,1033.02,6,Electronics,133,Miami,Yearly,4.0,0,1,Excellent quality!
+CUST_0962,19,Male,56788.0,85,Silver,1560.94,16,Grocery,113,Miami,Yearly,5.0,0,6,
+CUST_0963,28,Male,95749.0,25,Bronze,1049.77,146,Sports,138,Miami,None,4.0,0,3,Excellent quality!
+CUST_0964,68,Male,81049.0,28,Gold,1285.64,39,Fashion,124,New York,Monthly,,0,5,Excellent quality!
+CUST_0965,56,Male,82493.0,15,Bronze,1574.8,113,Grocery,203,Miami,Monthly,5.0,0,4,Excellent quality!
+CUST_0966,55,Female,56027.0,4,Platinum,816.17,140,Home & Living,60,Houston,None,5.0,0,1,Great service!
+CUST_0967,51,Female,113547.0,93,Platinum,15.39,138,Electronics,249,Los Angeles,Yearly,4.0,1,9,Loved the experience!
+CUST_0968,55,Male,62849.0,73,Gold,1701.39,71,Grocery,297,Miami,None,5.0,0,1,
+CUST_0969,67,Female,120127.0,27,Gold,767.97,110,Grocery,12,Los Angeles,Yearly,4.0,0,8,Excellent quality!
+CUST_0970,51,Female,37858.0,26,Bronze,997.13,55,Sports,254,Berlin,None,3.0,0,10,
+CUST_0971,35,Male,104162.0,19,Platinum,25.46,129,Grocery,84,Houston,Monthly,5.0,0,9,Excellent quality!
+CUST_0972,47,Female,99003.0,92,Silver,989.26,49,Sports,19,Miami,Monthly,4.0,0,1,Excellent quality!
+CUST_0973,32,Female,72395.0,17,Gold,1973.11,21,Electronics,49,New York,Yearly,3.0,0,7,Excellent quality!
+CUST_0974,44,Female,59758.0,43,Platinum,563.75,37,Electronics,163,New York,Yearly,5.0,0,7,Excellent quality!
+CUST_0975,68,Male,74312.0,41,Platinum,796.88,116,Home & Living,91,Berlin,Monthly,3.0,0,0,Could be better.
+CUST_0976,51,Female,88670.0,42,Gold,1377.51,24,Sports,87,Los Angeles,Monthly,5.0,0,0,
+CUST_0977,69,Male,136758.0,50,Bronze,1631.44,55,Sports,68,London,Monthly,1.0,0,3,Excellent quality!
+CUST_0978,74,Female,102279.0,84,Platinum,840.61,25,Fashion,36,New York,None,1.0,0,1,Excellent quality!
+CUST_0979,55,Female,35434.0,40,Silver,626.24,135,Fashion,252,New York,Yearly,4.0,0,0,Excellent quality!
+CUST_0980,50,Female,84047.0,39,Platinum,1876.27,127,Home & Living,251,New York,Monthly,2.0,0,8,Loved the experience!
+CUST_0981,41,Female,67775.0,23,Silver,1357.52,93,Electronics,139,Houston,Monthly,1.0,0,2,Great service!
+CUST_0982,32,Female,95769.0,96,Bronze,246.85,94,Fashion,354,New York,Monthly,2.0,0,0,
+CUST_0983,47,Male,,52,Bronze,147.17,71,Grocery,167,Chicago,Yearly,3.0,0,1,Could be better.
+CUST_0984,72,Male,86677.0,47,Silver,972.26,122,Electronics,53,Miami,Monthly,3.0,0,7,Will not recommend.
+CUST_0985,59,Female,103555.0,63,Gold,447.98,24,Grocery,177,Berlin,None,2.0,0,4,Great service!
+CUST_0986,68,Male,148379.0,97,Bronze,515.43,11,Sports,296,New York,Monthly,4.0,0,10,Excellent quality!
+CUST_0987,34,Male,105920.0,69,Silver,1756.61,73,Electronics,300,London,Monthly,5.0,0,6,Excellent quality!
+CUST_0988,22,Male,128439.0,43,Bronze,188.24,12,Home & Living,358,London,None,2.0,0,5,Excellent quality!
+CUST_0989,46,Male,65734.0,48,Gold,1433.57,35,Sports,105,New York,None,2.0,0,0,Could be better.
+CUST_0990,21,Female,121665.0,34,Silver,549.57,141,Sports,136,New York,Monthly,2.0,0,5,Loved the experience!
+CUST_0991,27,Female,108503.0,40,Bronze,1523.05,23,Grocery,189,Chicago,None,2.0,0,10,Loved the experience!
+CUST_0992,73,Female,60603.0,75,Bronze,1447.6,83,Sports,127,New York,Yearly,2.0,0,6,Great service!
+CUST_0993,34,Female,96708.0,61,Bronze,24.71,88,Fashion,341,New York,None,4.0,0,3,Excellent quality!
+CUST_0994,27,Male,,50,Silver,1023.18,80,Electronics,46,Miami,Yearly,1.0,1,7,Great service!
+CUST_0995,34,Male,88803.0,67,Bronze,287.25,97,Fashion,4,London,Yearly,5.0,0,7,Could be better.
+CUST_0996,37,Female,59332.0,62,Bronze,1733.79,140,Grocery,256,Chicago,None,,0,6,Could be better.
+CUST_0997,41,Male,111703.0,58,Platinum,1744.46,34,Grocery,299,London,Monthly,2.0,0,10,Could be better.
+CUST_0998,22,Female,41312.0,33,Gold,842.51,75,Electronics,149,Chicago,Yearly,1.0,0,1,
+CUST_0999,51,Female,113376.0,75,Silver,894.35,128,Sports,293,London,Yearly,,0,5,Great service!
+CUST_1000,23,Male,104526.0,16,Platinum,,141,Home & Living,242,New York,Monthly,3.0,0,5,Excellent quality!
+CUST_1001,70,Female,64179.0,82,Bronze,1436.05,31,Grocery,274,London,Monthly,1.0,0,6,Great service!
+CUST_1002,19,Female,91442.0,94,Silver,723.74,130,Electronics,207,London,Monthly,5.0,0,5,Great service!
+CUST_1003,30,Female,134332.0,48,Silver,542.91,103,Home & Living,114,Chicago,Yearly,4.0,0,1,Loved the experience!
+CUST_1004,60,Male,137961.0,10,Silver,,15,Sports,194,Berlin,Yearly,3.0,0,7,Great service!
+CUST_1005,60,Male,60379.0,82,Bronze,192.06,57,Grocery,342,Los Angeles,Yearly,4.0,0,3,Excellent quality!
+CUST_1006,65,Female,37297.0,38,Silver,1495.74,75,Electronics,169,Chicago,Monthly,2.0,1,8,Could be better.
+CUST_1007,28,Male,22011.0,19,Silver,35.07,34,Electronics,81,Chicago,Yearly,3.0,0,7,Great service!
+CUST_1008,68,Male,136130.0,36,Gold,1292.53,103,Electronics,153,Chicago,None,5.0,0,2,Great service!
+CUST_1009,64,Female,140234.0,59,Bronze,373.9,75,Grocery,140,Houston,Yearly,3.0,0,2,Could be better.
+CUST_1010,74,Male,64014.0,63,Bronze,472.48,29,Home & Living,313,Berlin,Yearly,5.0,0,7,Excellent quality!
+CUST_1011,40,Female,132094.0,77,Bronze,1274.91,16,Electronics,145,Houston,None,2.0,0,1,Loved the experience!
+CUST_1012,72,Female,31738.0,46,Bronze,1985.96,77,Sports,322,Houston,None,5.0,0,8,Could be better.
+CUST_1013,33,Female,114333.0,3,Silver,1557.66,37,Electronics,121,Chicago,Yearly,4.0,0,3,Excellent quality!
+CUST_1014,48,Male,67498.0,74,Bronze,459.42,81,Home & Living,251,Los Angeles,None,1.0,0,5,Could be better.
+CUST_1015,28,Female,147792.0,65,Gold,360.29,149,Grocery,342,Chicago,Yearly,4.0,0,2,Will not recommend.
+CUST_1016,71,Male,31120.0,91,Bronze,1733.8,124,Electronics,310,New York,None,4.0,0,2,Could be better.
+CUST_1017,33,Male,,8,Bronze,893.93,19,Electronics,88,Los Angeles,Monthly,3.0,0,2,Could be better.
+CUST_1018,25,Female,28767.0,51,Silver,282.74,102,Sports,57,Houston,Monthly,2.0,0,10,Excellent quality!
+CUST_1019,21,Male,42852.0,81,Bronze,1725.8,136,Sports,62,London,Monthly,1.0,0,9,Could be better.
+CUST_1020,57,Male,99239.0,73,Silver,1634.02,77,Electronics,346,London,None,5.0,0,1,
+CUST_1021,21,Female,20929.0,6,Silver,1967.97,41,Electronics,307,Berlin,Yearly,3.0,0,7,Great service!
+CUST_1022,73,Male,97487.0,89,Bronze,1820.39,61,Sports,279,Miami,Monthly,2.0,0,8,
+CUST_1023,42,Male,138387.0,39,Bronze,1705.06,26,Home & Living,71,Berlin,Monthly,1.0,0,7,Could be better.
+CUST_1024,20,Female,111575.0,60,Bronze,114.62,71,Fashion,8,Los Angeles,None,4.0,0,9,Excellent quality!
+CUST_1025,49,Female,146155.0,28,Bronze,217.79,103,Fashion,93,Houston,None,2.0,0,2,Great service!
+CUST_1026,20,Female,134149.0,97,Bronze,1142.28,70,Electronics,338,Los Angeles,Yearly,2.0,0,6,Loved the experience!
+CUST_1027,44,Male,115040.0,54,Bronze,1067.64,107,Sports,335,Los Angeles,Yearly,2.0,0,10,Excellent quality!
+CUST_1028,46,Male,37438.0,37,Bronze,,107,Grocery,151,London,Yearly,4.0,0,9,Excellent quality!
+CUST_1029,49,Male,,9,Silver,799.61,103,Grocery,355,Chicago,Yearly,5.0,0,1,Great service!
+CUST_1030,67,Male,25744.0,82,Silver,868.11,19,Fashion,39,New York,None,3.0,0,3,Could be better.
+CUST_1031,68,Female,103820.0,56,Silver,1142.9,68,Home & Living,358,Miami,Monthly,5.0,0,5,Great service!
+CUST_1032,36,Male,62417.0,59,Bronze,14.13,70,Fashion,61,Houston,Yearly,1.0,0,10,
+CUST_1033,38,Male,125284.0,85,Bronze,528.81,113,Electronics,253,Los Angeles,Yearly,3.0,0,4,Excellent quality!
+CUST_1034,22,Female,27069.0,2,Gold,1041.38,57,Home & Living,68,Miami,Yearly,1.0,0,8,Great service!
+CUST_1035,35,Female,62359.0,61,Silver,1447.21,61,Grocery,244,Los Angeles,Yearly,4.0,0,9,Excellent quality!
+CUST_1036,45,Female,39799.0,58,Gold,356.57,92,Sports,364,London,Yearly,5.0,0,3,
+CUST_1037,59,Male,118746.0,60,Bronze,,30,Sports,169,New York,Monthly,2.0,0,4,Loved the experience!
+CUST_1038,39,Male,113762.0,40,Silver,1431.77,127,Electronics,177,London,Yearly,3.0,0,3,Excellent quality!
+CUST_1039,38,Male,140906.0,36,Silver,894.81,115,Fashion,188,Miami,Monthly,2.0,0,7,Loved the experience!
+CUST_1040,23,Male,90188.0,37,Bronze,63.89,6,Electronics,259,Houston,Monthly,1.0,0,7,Excellent quality!
+CUST_1041,18,Female,109859.0,79,Silver,904.04,18,Sports,71,Los Angeles,Monthly,2.0,0,2,Loved the experience!
+CUST_1042,22,Female,142521.0,92,Silver,599.93,10,Grocery,16,New York,None,2.0,0,0,Loved the experience!
+CUST_1043,58,Female,127674.0,18,Bronze,1860.0,92,Sports,340,London,Yearly,4.0,0,5,Loved the experience!
+CUST_1044,29,Female,27597.0,98,Bronze,257.98,139,Home & Living,56,Miami,Yearly,4.0,0,1,Great service!
+CUST_1045,43,Male,,63,Gold,1308.43,77,Sports,217,London,None,5.0,0,1,Excellent quality!
+CUST_1046,63,Female,57226.0,22,Platinum,114.91,101,Sports,106,Los Angeles,Yearly,1.0,0,2,Loved the experience!
+CUST_1047,51,Male,92127.0,11,Bronze,,84,Home & Living,303,Los Angeles,Yearly,4.0,0,7,Loved the experience!
+CUST_1048,66,Female,134650.0,58,Bronze,1112.42,52,Fashion,172,Houston,Yearly,,0,2,Excellent quality!
+CUST_1049,31,Female,111369.0,57,Bronze,602.93,31,Sports,218,New York,Yearly,5.0,0,6,Loved the experience!
+CUST_1050,43,Male,97362.0,77,Silver,915.6,145,Electronics,246,Chicago,Yearly,3.0,0,9,Could be better.
+CUST_1051,62,Male,46417.0,4,Bronze,335.47,110,Sports,217,London,Yearly,5.0,0,9,
+CUST_1052,44,Other,38693.0,86,Platinum,615.21,93,Electronics,30,Los Angeles,None,2.0,0,8,Excellent quality!
+CUST_1053,26,Male,99674.0,7,Bronze,1246.0,53,Home & Living,46,Miami,None,2.0,0,7,Great service!
+CUST_1054,43,Male,140956.0,61,Bronze,610.58,145,Sports,133,London,Monthly,4.0,0,0,Loved the experience!
+CUST_1055,74,Male,135598.0,54,Silver,1800.49,86,Home & Living,107,Houston,Monthly,4.0,0,6,
+CUST_1056,64,Female,139028.0,88,Gold,1260.53,2,Home & Living,71,Houston,Yearly,5.0,0,6,Loved the experience!
+CUST_1057,74,Female,147517.0,68,Silver,,86,Fashion,326,Los Angeles,Yearly,5.0,0,7,Loved the experience!
+CUST_1058,39,Female,73161.0,92,Silver,87.13,133,Sports,107,Los Angeles,Monthly,1.0,0,9,Great service!
+CUST_1059,64,Male,141316.0,79,Platinum,1004.1,4,Electronics,308,Los Angeles,None,2.0,0,4,Great service!
+CUST_1060,73,Female,,1,Bronze,1531.9,6,Electronics,271,Berlin,Monthly,5.0,0,9,Excellent quality!
+CUST_1061,47,Male,104092.0,55,Gold,538.46,149,Sports,170,Chicago,None,3.0,0,8,Excellent quality!
+CUST_1062,60,Female,42052.0,3,Bronze,1615.48,118,Fashion,115,Los Angeles,None,1.0,0,8,
+CUST_1063,65,Female,91849.0,78,Gold,511.1,89,Fashion,328,London,None,5.0,0,7,Excellent quality!
+CUST_1064,34,Male,93851.0,38,Silver,,14,Fashion,73,London,Monthly,4.0,0,5,Will not recommend.
+CUST_1065,43,Male,28036.0,1,Bronze,179.68,56,Electronics,255,Berlin,Monthly,5.0,0,5,Great service!
+CUST_1066,53,Male,51778.0,38,Gold,1733.71,81,Home & Living,80,Berlin,Yearly,4.0,0,0,
+CUST_1067,18,Male,47734.0,85,Bronze,1003.38,149,Fashion,267,New York,Monthly,4.0,0,5,Loved the experience!
+CUST_1068,25,Male,43173.0,29,Bronze,600.11,46,Electronics,127,Miami,Yearly,2.0,0,3,Loved the experience!
+CUST_1069,66,Female,50403.0,5,Silver,,144,Electronics,325,Los Angeles,Yearly,2.0,0,3,
+CUST_1070,52,Female,86321.0,74,Bronze,869.7,16,Home & Living,234,London,Monthly,5.0,0,1,Could be better.
+CUST_1071,69,Male,91675.0,92,Silver,1998.11,120,Sports,40,Berlin,Monthly,5.0,0,10,Will not recommend.
+CUST_1072,32,Male,26344.0,21,Bronze,448.45,84,Sports,180,London,None,3.0,0,3,Excellent quality!
+CUST_1073,64,Male,38800.0,71,Bronze,215.4,8,Fashion,156,London,Monthly,1.0,0,4,
+CUST_1074,73,Female,45372.0,67,Bronze,1174.22,88,Fashion,58,Berlin,Monthly,1.0,0,4,Great service!
+CUST_1075,39,Male,81516.0,47,Bronze,982.2,131,Home & Living,344,Chicago,Yearly,5.0,0,4,Excellent quality!
+CUST_1076,31,Female,40538.0,84,Silver,1053.15,19,Fashion,248,Berlin,None,2.0,0,3,Loved the experience!
+CUST_1077,43,Female,83918.0,83,Gold,1337.2,97,Home & Living,191,Berlin,Yearly,3.0,0,0,Could be better.
+CUST_1078,45,Female,34973.0,35,Platinum,541.62,66,Electronics,23,Miami,Monthly,1.0,0,9,
+CUST_1079,40,Female,91155.0,68,Gold,1822.22,79,Fashion,79,Berlin,Yearly,5.0,1,7,
+CUST_1080,31,Male,120240.0,69,Bronze,876.99,86,Electronics,133,Houston,None,2.0,0,2,Will not recommend.
+CUST_1081,41,Female,79500.0,1,Silver,266.88,124,Grocery,212,Berlin,None,2.0,0,1,Will not recommend.
+CUST_1082,19,Male,56575.0,68,Bronze,1487.17,46,Home & Living,347,London,Yearly,2.0,0,8,Great service!
+CUST_1083,62,Male,125455.0,12,Bronze,1289.78,113,Grocery,165,Los Angeles,Yearly,4.0,1,6,Could be better.
+CUST_1084,43,Female,62261.0,60,Silver,638.33,91,Fashion,347,London,Yearly,2.0,1,8,Great service!
+CUST_1085,31,Female,130659.0,27,Bronze,1246.82,141,Electronics,336,Miami,Monthly,,0,1,Loved the experience!
+CUST_1086,73,Female,47716.0,56,Bronze,447.53,33,Fashion,70,Houston,Yearly,3.0,0,8,Great service!
+CUST_1087,68,Male,23236.0,23,Platinum,895.23,133,Grocery,213,Berlin,None,5.0,0,9,Loved the experience!
+CUST_1088,24,Male,35848.0,25,Silver,1799.83,77,Fashion,64,Chicago,None,2.0,1,8,Great service!
+CUST_1089,20,Female,22352.0,21,Silver,275.73,121,Sports,220,New York,Monthly,3.0,0,10,Excellent quality!
+CUST_1090,64,Male,21932.0,61,Bronze,779.53,128,Grocery,307,Berlin,Monthly,1.0,0,8,Will not recommend.
+CUST_1091,40,Female,96449.0,63,Bronze,1644.07,78,Fashion,285,Los Angeles,Yearly,1.0,0,9,Loved the experience!
+CUST_1092,63,Female,28556.0,52,Gold,1939.29,67,Electronics,184,New York,None,5.0,0,9,Excellent quality!
+CUST_1093,60,Female,106836.0,88,Bronze,913.31,115,Fashion,206,Chicago,None,3.0,0,3,Excellent quality!
+CUST_1094,64,Male,25498.0,25,Silver,1018.93,63,Electronics,98,Miami,Monthly,5.0,0,9,Will not recommend.
+CUST_1095,62,Male,96118.0,55,Bronze,1148.62,113,Sports,241,Miami,Monthly,3.0,1,2,Great service!
+CUST_1096,35,Male,70098.0,46,Silver,1865.37,94,Fashion,157,Chicago,Yearly,3.0,0,5,Excellent quality!
+CUST_1097,55,Female,84386.0,32,Bronze,1717.83,48,Sports,97,London,Yearly,5.0,0,2,Loved the experience!
+CUST_1098,52,Male,132169.0,55,Gold,349.5,12,Grocery,41,Chicago,None,3.0,0,10,Excellent quality!
+CUST_1099,68,Female,29569.0,96,Gold,879.15,145,Electronics,138,Berlin,Yearly,2.0,0,8,Loved the experience!
+CUST_1100,32,Male,136127.0,5,Gold,933.36,40,Grocery,282,Los Angeles,None,3.0,0,2,Loved the experience!
+CUST_1101,42,Other,146060.0,36,Bronze,1580.3,85,Electronics,226,Houston,Yearly,,0,1,Loved the experience!
+CUST_1102,72,Male,76882.0,49,Gold,1209.76,57,Sports,71,Berlin,None,5.0,0,7,Excellent quality!
+CUST_1103,54,Male,90393.0,58,Silver,1311.9,87,Home & Living,242,Berlin,Yearly,1.0,0,5,
+CUST_1104,45,Male,20340.0,39,Bronze,1996.42,84,Fashion,17,Berlin,None,4.0,0,7,Great service!
+CUST_1105,27,Female,63949.0,80,Silver,159.17,121,Sports,76,New York,Monthly,3.0,1,6,Could be better.
+CUST_1106,56,Female,102302.0,97,Bronze,453.79,74,Electronics,44,New York,Yearly,4.0,0,2,Great service!
+CUST_1107,74,Female,82443.0,85,Bronze,,107,Electronics,342,Miami,Monthly,3.0,0,7,Loved the experience!
+CUST_1108,34,Male,111668.0,61,Gold,702.09,124,Electronics,139,Berlin,Yearly,5.0,0,9,Excellent quality!
+CUST_1109,56,Male,,9,Bronze,53.07,100,Electronics,176,London,Yearly,5.0,0,0,Loved the experience!
+CUST_1110,39,Female,20138.0,6,Silver,192.64,43,Fashion,221,Miami,Monthly,3.0,0,0,
+CUST_1111,43,Male,20358.0,35,Bronze,1365.1,119,Grocery,91,Los Angeles,None,5.0,0,9,Could be better.
+CUST_1112,61,Male,139619.0,39,Gold,1759.86,23,Home & Living,21,Chicago,Monthly,5.0,0,7,
+CUST_1113,42,Other,95250.0,22,Platinum,1033.31,37,Fashion,171,New York,None,3.0,0,8,Excellent quality!
+CUST_1114,34,Other,105376.0,41,Gold,1082.99,134,Electronics,91,Berlin,None,1.0,0,9,Great service!
+CUST_1115,30,Female,119931.0,5,Bronze,517.64,65,Fashion,191,Los Angeles,Monthly,3.0,0,5,Will not recommend.
+CUST_1116,37,Female,50654.0,42,Bronze,1538.07,134,Sports,76,Miami,Yearly,,0,4,Loved the experience!
+CUST_1117,42,Male,45879.0,87,Silver,1506.07,22,Electronics,280,Miami,Monthly,5.0,0,1,Great service!
+CUST_1118,21,Male,,81,Bronze,,105,Home & Living,363,New York,Monthly,1.0,0,10,Loved the experience!
+CUST_1119,27,Female,75778.0,76,Bronze,433.2,88,Electronics,178,Miami,Yearly,5.0,0,8,Loved the experience!
+CUST_1120,20,Female,57772.0,87,Silver,203.07,125,Home & Living,237,London,None,1.0,0,5,
+CUST_1121,58,Male,78478.0,80,Silver,137.83,79,Home & Living,134,Miami,Monthly,1.0,0,7,Loved the experience!
+CUST_1122,62,Male,84353.0,67,Platinum,1189.47,90,Grocery,364,Houston,Yearly,3.0,1,8,Excellent quality!
+CUST_1123,35,Male,46762.0,30,Bronze,1651.82,51,Grocery,279,Chicago,Yearly,1.0,0,8,
+CUST_1124,64,Female,33283.0,57,Bronze,1718.08,102,Fashion,18,Miami,None,5.0,0,7,Excellent quality!
+CUST_1125,53,Female,83922.0,86,Bronze,932.61,106,Fashion,82,Houston,Monthly,3.0,0,9,Will not recommend.
+CUST_1126,64,Female,59420.0,73,Platinum,1570.7,60,Home & Living,227,Los Angeles,Yearly,1.0,0,7,Loved the experience!
+CUST_1127,39,Male,75568.0,29,Gold,1894.29,46,Electronics,264,Miami,Yearly,3.0,0,2,Loved the experience!
+CUST_1128,51,Other,105090.0,37,Gold,557.59,36,Sports,111,London,Yearly,4.0,0,2,Loved the experience!
+CUST_1129,64,Female,40219.0,87,Platinum,801.94,11,Sports,250,Los Angeles,None,3.0,0,1,Loved the experience!
+CUST_1130,25,Male,77169.0,13,Silver,1863.64,12,Electronics,163,Berlin,None,4.0,0,0,Excellent quality!
+CUST_1131,57,Male,120455.0,32,Silver,683.08,39,Electronics,357,Miami,Monthly,4.0,0,3,Loved the experience!
+CUST_1132,66,Male,94965.0,46,Bronze,1828.61,139,Grocery,167,New York,Yearly,3.0,0,1,Could be better.
+CUST_1133,61,Male,,23,Silver,1962.28,36,Sports,220,Houston,Yearly,5.0,0,1,
+CUST_1134,36,Female,64695.0,45,Silver,1327.0,52,Home & Living,303,Houston,Yearly,5.0,0,10,Great service!
+CUST_1135,59,Male,125209.0,17,Silver,1635.61,31,Fashion,190,New York,Yearly,5.0,0,10,Loved the experience!
+CUST_1136,58,Female,104754.0,85,Platinum,,33,Grocery,324,Chicago,Yearly,2.0,0,4,Excellent quality!
+CUST_1137,54,Male,97988.0,66,Platinum,1402.07,141,Sports,169,Berlin,Yearly,4.0,1,3,Great service!
+CUST_1138,23,Male,,6,Gold,620.79,146,Electronics,44,London,None,3.0,0,0,Could be better.
+CUST_1139,69,Male,134516.0,18,Gold,123.62,58,Sports,13,Houston,Monthly,5.0,0,8,Will not recommend.
+CUST_1140,43,Male,38951.0,94,Silver,692.67,128,Home & Living,230,Los Angeles,None,5.0,0,3,Excellent quality!
+CUST_1141,51,Female,21307.0,22,Bronze,1337.2,31,Grocery,156,London,Yearly,,0,4,Loved the experience!
+CUST_1142,73,Female,100388.0,33,Bronze,214.03,55,Electronics,133,Houston,Yearly,4.0,0,6,Loved the experience!
+CUST_1143,62,Female,110768.0,30,Silver,,10,Home & Living,36,Berlin,None,3.0,0,1,Could be better.
+CUST_1144,23,Female,55428.0,81,Gold,287.99,130,Fashion,52,Chicago,Yearly,2.0,0,7,Great service!
+CUST_1145,54,Male,128707.0,32,Bronze,1434.31,15,Grocery,17,Berlin,Yearly,2.0,0,10,Will not recommend.
+CUST_1146,74,Male,112021.0,42,Platinum,1945.86,3,Home & Living,37,Los Angeles,Yearly,3.0,0,1,Loved the experience!
+CUST_1147,50,Male,138418.0,78,Bronze,1966.3,43,Home & Living,186,Berlin,Yearly,4.0,0,10,Loved the experience!
+CUST_1148,70,Female,95774.0,10,Bronze,993.02,67,Electronics,195,London,None,5.0,0,9,Could be better.
+CUST_1149,39,Male,,36,Silver,1740.01,56,Fashion,242,Los Angeles,None,2.0,0,4,Could be better.
+CUST_1150,38,Male,137850.0,34,Bronze,1476.28,63,Home & Living,299,New York,Monthly,2.0,0,1,Could be better.
+CUST_1151,23,Female,21140.0,73,Bronze,1007.07,15,Grocery,302,Miami,Monthly,4.0,0,1,Excellent quality!
+CUST_1152,23,Male,148865.0,28,Bronze,1149.79,109,Home & Living,34,New York,Yearly,2.0,0,3,Loved the experience!
+CUST_1153,72,Male,44842.0,11,Gold,283.08,116,Sports,214,London,Monthly,2.0,0,3,Great service!
+CUST_1154,65,Male,46421.0,78,Silver,1875.95,92,Grocery,218,Miami,Yearly,4.0,0,7,Excellent quality!
+CUST_1155,21,Female,21708.0,39,Silver,710.34,138,Grocery,315,New York,Monthly,3.0,0,5,Excellent quality!
+CUST_1156,47,Female,23630.0,47,Silver,897.84,47,Home & Living,89,Miami,Yearly,5.0,0,9,Will not recommend.
+CUST_1157,28,Female,39595.0,19,Bronze,1346.6,57,Electronics,307,Houston,Monthly,5.0,0,7,Loved the experience!
+CUST_1158,47,Male,96021.0,15,Platinum,674.47,50,Grocery,251,Berlin,Yearly,2.0,0,6,Loved the experience!
+CUST_1159,48,Other,48308.0,28,Bronze,515.98,71,Sports,7,Los Angeles,Yearly,5.0,0,9,Could be better.
+CUST_1160,41,Female,64789.0,24,Platinum,1265.79,143,Electronics,255,Miami,Yearly,3.0,0,3,Excellent quality!
+CUST_1161,72,Male,75690.0,72,Silver,59.72,146,Electronics,362,Houston,None,2.0,0,1,Great service!
+CUST_1162,26,Female,46086.0,9,Platinum,1444.24,82,Electronics,207,Berlin,None,5.0,0,8,Excellent quality!
+CUST_1163,72,Male,36859.0,47,Bronze,1032.91,116,Grocery,130,Berlin,Yearly,1.0,0,1,Great service!
+CUST_1164,20,Female,27684.0,33,Silver,1215.45,105,Electronics,223,Chicago,Monthly,1.0,0,0,Loved the experience!
+CUST_1165,68,Female,111088.0,62,Bronze,1267.44,88,Home & Living,196,New York,None,1.0,0,7,Excellent quality!
+CUST_1166,48,Male,21207.0,97,Bronze,1058.83,2,Electronics,141,Chicago,None,1.0,0,9,Loved the experience!
+CUST_1167,57,Other,66099.0,19,Silver,1169.24,104,Sports,251,London,None,1.0,0,8,Great service!
+CUST_1168,54,Female,87496.0,67,Bronze,1370.74,84,Fashion,95,Houston,Monthly,2.0,0,0,
+CUST_1169,53,Female,86093.0,74,Silver,1508.71,43,Sports,25,Chicago,None,4.0,0,6,Excellent quality!
+CUST_1170,41,Male,49689.0,40,Bronze,1457.63,71,Grocery,110,Chicago,Monthly,4.0,1,1,Excellent quality!
+CUST_1171,48,Male,68651.0,47,Bronze,1740.54,94,Electronics,122,Berlin,None,2.0,0,5,Loved the experience!
+CUST_1172,23,Male,33893.0,65,Gold,,42,Electronics,185,Houston,None,2.0,0,10,Great service!
+CUST_1173,19,Female,117808.0,29,Silver,808.28,133,Home & Living,167,Berlin,Monthly,3.0,0,4,
+CUST_1174,37,Male,86418.0,50,Silver,,139,Electronics,50,Los Angeles,None,4.0,0,0,Could be better.
+CUST_1175,45,Female,145074.0,98,Silver,799.22,65,Sports,4,Miami,Yearly,1.0,0,1,Excellent quality!
+CUST_1176,28,Female,123065.0,13,Gold,258.49,34,Grocery,76,London,None,2.0,0,1,Loved the experience!
+CUST_1177,21,Male,80011.0,1,Bronze,1055.64,120,Fashion,159,London,Monthly,1.0,0,9,Loved the experience!
+CUST_1178,32,Female,58635.0,34,Silver,227.89,1,Electronics,207,New York,None,4.0,0,9,
+CUST_1179,23,Male,76115.0,93,Platinum,,130,Fashion,256,Berlin,Monthly,5.0,0,5,Could be better.
+CUST_1180,71,Other,115071.0,48,Gold,1996.65,148,Electronics,204,Miami,None,5.0,1,10,Great service!
+CUST_1181,66,Female,98405.0,77,Silver,1087.31,61,Grocery,254,New York,Yearly,2.0,0,0,Will not recommend.
+CUST_1182,47,Male,92702.0,48,Silver,575.28,149,Sports,10,London,Yearly,3.0,0,10,Loved the experience!
+CUST_1183,73,Male,98518.0,49,Gold,1989.6,88,Grocery,7,Miami,Monthly,1.0,0,3,Great service!
+CUST_1184,55,Male,126233.0,64,Silver,1933.45,68,Fashion,31,Chicago,None,2.0,0,9,Loved the experience!
+CUST_1185,68,Female,123651.0,61,Bronze,887.07,127,Electronics,27,Los Angeles,Monthly,3.0,0,10,Loved the experience!
+CUST_1186,74,Female,92805.0,29,Bronze,528.2,140,Fashion,205,Chicago,Yearly,1.0,1,4,Excellent quality!
+CUST_1187,19,Female,78954.0,39,Gold,1678.42,22,Sports,227,Los Angeles,Monthly,4.0,0,1,Loved the experience!
+CUST_1188,32,Male,48064.0,88,Bronze,1434.09,148,Grocery,127,Berlin,None,5.0,0,1,
+CUST_1189,28,Male,142813.0,26,Gold,1377.01,82,Fashion,254,Houston,Monthly,3.0,0,6,Great service!
+CUST_1190,25,Male,99063.0,17,Bronze,1787.3,129,Fashion,211,New York,Monthly,1.0,0,6,Could be better.
+CUST_1191,43,Female,22454.0,71,Silver,1381.94,30,Sports,238,New York,Monthly,2.0,0,5,Great service!
+CUST_1192,68,Female,40878.0,13,Bronze,574.76,126,Electronics,206,Houston,Yearly,1.0,1,0,Excellent quality!
+CUST_1193,62,Male,71098.0,69,Bronze,1390.79,97,Fashion,317,Miami,Monthly,2.0,0,2,
+CUST_1194,61,Male,82154.0,26,Platinum,618.57,24,Sports,282,Houston,Yearly,5.0,0,8,Excellent quality!
+CUST_1195,22,Female,32991.0,49,Gold,1520.89,14,Electronics,244,Berlin,None,5.0,0,9,Could be better.
+CUST_1196,23,Female,88344.0,67,Silver,1243.3,36,Electronics,44,London,None,1.0,0,0,Loved the experience!
+CUST_1197,43,Female,124946.0,7,Silver,164.05,24,Grocery,104,Houston,Yearly,1.0,0,1,Excellent quality!
+CUST_1198,71,Female,56593.0,58,Silver,1030.54,95,Sports,347,Los Angeles,Monthly,2.0,0,7,
+CUST_1199,21,Male,56304.0,49,Silver,693.17,55,Electronics,280,London,Yearly,2.0,0,6,
+CUST_1200,36,Male,50386.0,53,Silver,663.86,24,Grocery,233,Houston,Monthly,3.0,0,8,Loved the experience!
